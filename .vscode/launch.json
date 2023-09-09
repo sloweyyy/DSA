@@ -2,30 +2,30 @@
   "version": "0.2.0",
   "configurations": [
     {
-        "type": "java",
-        "name": "Solution",
-        "request": "launch",
-        "mainClass": "Solution",
-        "projectName": "DSA_61d9265e"
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "DSA_61d9265e"
     },
     {
-        "name": "C/C++ Runner: Debug Session",
-        "type": "cppdbg",
-        "request": "launch",
-        "args": [],
-        "stopAtEntry": false,
-        "externalConsole": true,
-        "cwd": "d:/Code Workspace/DSA",
-        "program": "d:/Code Workspace/DSA/build/Debug/outDebug",
-        "MIMode": "gdb",
-        "miDebuggerPath": "gdb",
-        "setupCommands": [
-            {
-                "description": "Enable pretty-printing for gdb",
-                "text": "-enable-pretty-printing",
-                "ignoreFailures": true
-            }
-        ]
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Code Workspace/DSA",
+      "program": "d:/Code Workspace/DSA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
     }
-]
+  ]
 }
