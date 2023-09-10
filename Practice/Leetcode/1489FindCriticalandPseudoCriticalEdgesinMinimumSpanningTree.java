@@ -1,81 +1,78 @@
+import java.util.*;
+
+class UnionFind {
+    private int[] parent;
+
+    public UnionFind(int n) {
+        parent = new int[n];
+        for (int i = 0; i < n; i++)
+            parent[i] = i;
+    }
+
+    public int findParent(int p) {
+        return parent[p] == p ? p : (parent[p] = findParent(parent[p]));
+    }
+
+    public void union(int u, int v) {
+        int pu = findParent(u), pv = findParent(v);
+        parent[pu] = pv;
+    }
+}
 
 class Solution {
-    public void union(int u, int v, int[] parent) {
-        int pu = find(u, parent);
-        int pv = find(v, parent);
-        if(pu != pv) {
-            parent[pv] = pu;
-        }
-    }
-
-    public int find(int node, int[] parent) {
-        if(parent[node] == node) {
-            return node;
-        }
-        return find(parent[node], parent);
-    }
-
-    public int mst(int n, int[][] edges, int includeEdge[], int excludeEdge[]) {
-
-        int[] parent = new int[n];
-        for(int i = 0; i < n; i++) {
-            parent[i] = i;
-        }
-        int ans = 0;
-        int size = 0;
-        if(includeEdge != null) {
-            int parent1 = find(includeEdge[0], parent);
-            int parent2 = find(includeEdge[1], parent);
-            union(parent1, parent2, parent);
-            ans += includeEdge[2];
-            size += 1;
+    public List<List<Integer>> findCriticalAndPseudoCriticalEdges(int n, int[][] edges) {
+        List<Integer> critical = new ArrayList<>();
+        List<Integer> pseudoCritical = new ArrayList<>();
+        
+        for (int i = 0; i < edges.length; i++) {
+            int[] edge = edges[i];
+            edge = Arrays.copyOf(edge, edge.length + 1);
+            edge[3] = i;
+            edges[i] = edge;
         }
         
-        for(int[] edge : edges) {
-            if(excludeEdge != null && edge[0] == excludeEdge[0] && edge[1] == excludeEdge[1] && edge[2] ==  excludeEdge[2]) {
-                continue;
-            }
-            if(includeEdge != null && edge[0] == includeEdge[0] && edge[1] == includeEdge[1] && edge[2] ==  includeEdge[2]) {
-                continue;
-            }
-            int u = edge[0];
-            int v = edge[1];
-            int cost = edge[2];
-            int p1 = find(u, parent);
-            int p2 = find(v, parent);
-            if(p1 != p2) {
-                union(p1, p2, parent);
-                ans += cost;
-                size += 1;
-            }
+        Arrays.sort(edges, (a, b) -> Integer.compare(a[2], b[2]));
+
+        int mstwt = findMST(n, edges, -1, -1);
+
+        for (int i = 0; i < edges.length; i++) {
+            if (mstwt < findMST(n, edges, i, -1))
+                critical.add(edges[i][3]);
+            else if (mstwt == findMST(n, edges, -1, i))
+                pseudoCritical.add(edges[i][3]);
         }
 
-        return (size == n - 1) ? ans : Integer.MAX_VALUE; 
+        List<List<Integer>> result = new ArrayList<>();
+        result.add(critical);
+        result.add(pseudoCritical);
+        return result;
     }
 
-    public List<List<Integer>> findCriticalAndPseudoCriticalEdges(int n, int[][] edges) {
-        int originalEdges[][] = new int[edges.length][3];
-        for(int i = 0; i < edges.length; i++) {
-            originalEdges[i][0] = edges[i][0];
-            originalEdges[i][1] = edges[i][1];
-            originalEdges[i][2] = edges[i][2];
+    private int findMST(int n, int[][] edges, int block, int e) {
+        UnionFind uf = new UnionFind(n);
+        int weight = 0;
+
+        if (e != -1) {
+            weight += edges[e][2];
+            uf.union(edges[e][0], edges[e][1]);
         }
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> criticalEdges = new ArrayList<>();
-        List<Integer> pseudoCriticalEdges = new ArrayList<>();
-        Arrays.sort(edges, (a, b) -> a[2] - b[2]);
-        int originalCost = mst(n, edges, null, null);
-        for(int i = 0; i < originalEdges.length; i++) {
-            int excludedCost = mst(n, edges, null, originalEdges[i]);
-            int includedCost = mst(n, edges, originalEdges[i], null);
-            if(excludedCost > originalCost) {
-                criticalEdges.add(i);
-            } else if(includedCost == originalCost) {
-                pseudoCriticalEdges.add(i);
-            }
+
+        for (int i = 0; i < edges.length; i++) {
+            if (i == block)
+                continue;
+
+            if (uf.findParent(edges[i][0]) == uf.findParent(edges[i][1]))
+                continue;
+
+            uf.union(edges[i][0], edges[i][1]);
+            weight += edges[i][2];
         }
-        result.add(criticalEdges);
-        result.add(pseudoCriticalEdges);
-        return result;
+
+        for (int i = 0; i < n; i++) {
+            if (uf.findParent(i) != uf.findParent(0))
+                return Integer.MAX_VALUE;
+        }
+
+        return weight;
     }
 }
