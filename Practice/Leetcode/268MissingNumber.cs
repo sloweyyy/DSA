@@ -18,6 +18,7 @@ public class Solution
         Solution sol = new Solution();
         int[] nums = new int[] { 3, 0, 1 };
         Console.WriteLine(sol.MissingNumber(nums));
+        
     }
 }
 
