@@ -23,10 +23,7 @@ public class Solution
                 var groupMembersSubset = groupMembers.GetRange(i * groupSize, groupSize);
                 result.Add(groupMembersSubset);
             }
-
-
         }
-
         return result;
     }
 }
