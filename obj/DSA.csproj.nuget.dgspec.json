@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code Workspace\\DSA\\DSA.csproj": {}
+    "d:\\Code Workspace\\DSA\\DSA.csproj": {}
   },
   "projects": {
-    "D:\\Code Workspace\\DSA\\DSA.csproj": {
+    "d:\\Code Workspace\\DSA\\DSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code Workspace\\DSA\\DSA.csproj",
+        "projectUniqueName": "d:\\Code Workspace\\DSA\\DSA.csproj",
         "projectName": "DSA",
-        "projectPath": "D:\\Code Workspace\\DSA\\DSA.csproj",
+        "projectPath": "d:\\Code Workspace\\DSA\\DSA.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Code Workspace\\DSA\\obj\\",
+        "outputPath": "d:\\Code Workspace\\DSA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

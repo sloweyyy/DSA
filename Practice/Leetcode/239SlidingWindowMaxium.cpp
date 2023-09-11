@@ -26,3 +26,14 @@ public:
         return ans;
     }
 };
+
+int main()
+{
+    Solution sol;
+    vector<int> nums = {1, 3, -1, -3, 5, 3, 6, 7};
+    vector<int> ans = sol.maxSlidingWindow(nums, 3);
+    for (int i : ans)
+        cout << i << " ";
+    cout << endl;
+    return 0;
+}
