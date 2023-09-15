@@ -1,5 +1,6 @@
-public class Solution
+class Solution
 {
+
     public IList<string> FindItinerary(IList<IList<string>> tickets)
     {
         var graph = new Dictionary<string, List<string>>();
@@ -39,4 +40,5 @@ public class Solution
         itinerary.Reverse();
         return itinerary;
     }
+
 }
