@@ -11,4 +11,8 @@ int main() {
 
     tuple<int, int, int> t1 = {1, 2, 3};
     cout << get<0>(t1) << " " << get<1>(t1) << " " << get<2>(t1) << endl;
+
+    tuple<int, int, int, int> t2 = {1, 2, 3, 4};
+    cout << get<0>(t2) << " " << get<1>(t2) << " " << get<2>(t2) << " " << get<3>(t2) << endl;
+    
 }
