@@ -35,6 +35,6 @@ int main()
     for (int x: s)
     {
         cout << x << " ";
-    }
+    }   
     return 0;
 }

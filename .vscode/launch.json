@@ -15,8 +15,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Code Workspace/DSA",
-      "program": "d:/Code Workspace/DSA/build/Debug/outDebug",
+      "cwd": "d:/Code Workspace/DSA/Map",
+      "program": "d:/Code Workspace/DSA/Map/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
