@@ -15,16 +15,19 @@ class Solution {
             indices[i] = i;
         }
 
-        for (int i = 0; i < indices.length - 1; i++) {
-            for (int j = 1; j < indices.length; j++) {
-                if (sum[i] < sum[j]) {
-                    var temp = sum[i];
-                    sum[i] = sum[j];
-                    sum[j] = temp;
-
-                    temp = indices[i];
+        // sort the indices array based on the sum array
+        for (int i = 0; i < indices.length; i++) {
+            for (int j = i + 1; j < indices.length; j++) {
+                if (sum[indices[i]] > sum[indices[j]]) {
+                    var temp = indices[i];
                     indices[i] = indices[j];
                     indices[j] = temp;
+                } else if (sum[indices[i]] == sum[indices[j]]) {
+                    if (indices[i] > indices[j]) {
+                        var temp = indices[i];
+                        indices[i] = indices[j];
+                        indices[j] = temp;
+                    }
                 }
             }
         }
