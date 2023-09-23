@@ -1,14 +1,28 @@
+
 class Solution
+/**
+ * @brief Checks if string s is a subsequence of string t.
+ * 
+ * @param s The subsequence string to check.
+ * @param t The target string to check against.
+ * @return true If s is a subsequence of t.
+ * @return false If s is not a subsequence of t.
+ */
 {
 public:
     bool isSubsequence(string s, string t)
     {
-        int i = 0, j = 0;
-        while (i < s.length() && j < t.length())
+        int i = 0;
+        for (char c : t)
         {
-            if (s[i] == t[j])
+            if (i == s.length())
+            {
+                break;
+            }
+            if (s[i] == c)
+            {
                 i++;
-            j++;
+            }
         }
         return i == s.length();
     }
