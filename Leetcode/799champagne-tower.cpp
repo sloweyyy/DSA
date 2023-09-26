@@ -18,6 +18,5 @@ public:
             }
         }
         return dp[query_row][query_glass];
-    
     }
 };
