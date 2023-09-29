@@ -145,7 +145,7 @@
   ],
   "C_Cpp_Runner.useUndefinedSanitizer": false,
   "C_Cpp_Runner.useLeakSanitizer": false,
-"C_Cpp_Runner.useLinkTimeOptimization": false,
-"java.debug.settings.onBuildFailureProceed": true,
-"discord.enabled": true
+  "C_Cpp_Runner.useLinkTimeOptimization": false,
+  "java.debug.settings.onBuildFailureProceed": true,
+  "discord.enabled": true
 }
