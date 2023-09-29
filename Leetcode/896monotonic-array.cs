@@ -11,7 +11,7 @@ public class Solution
                 decreasing = false;
             }
             if (nums[i] < nums[i - 1])
-            {
+            {   
                 increasing = false;
             }
         }
