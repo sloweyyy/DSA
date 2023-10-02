@@ -147,5 +147,9 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "java.debug.settings.onBuildFailureProceed": true,
-  "discord.enabled": true
+"discord.enabled": true,
+"[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+},
+"python.formatting.provider": "none"
 }
