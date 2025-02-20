@@ -1,7 +1,5 @@
 
-class Solution {
-
-    public String findDifferentBinaryString(String[] nums) {
+public String findDifferentBinaryString(String[] nums) {
         int n = nums.length;
         Set<String> set = new HashSet<>();
         for (String num : nums) {
@@ -18,4 +16,3 @@ class Solution {
         }
         return "";
     }
-}
