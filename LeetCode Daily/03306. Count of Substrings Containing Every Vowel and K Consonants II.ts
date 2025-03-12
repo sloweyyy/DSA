@@ -62,3 +62,4 @@ function countOfSubstrings(word: string, k: number): number {
 
     return response;
 }
+re
