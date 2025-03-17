@@ -10,7 +10,3 @@ function divideArray(nums: number[]): boolean {
     }
     return true;
 }
-// explain
-// count the number of each element
-// if the number of each element is even, return true
-// otherwise, return false
