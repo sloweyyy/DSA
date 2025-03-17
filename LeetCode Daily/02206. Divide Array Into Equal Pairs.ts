@@ -1,7 +1,7 @@
 function divideArray(nums: number[]): boolean {
-    const count = new Map<number, number>();
+    const count = new Map<number, number>(); // count the number of each element
     for (const num of nums) {
-        count.set(num, (count.get(num) || 0) + 1);
+        count.set(num, (count.get(num) || 0) + 1); // count the number of each element
     }
     for (const [key, value] of count) {
         if (value % 2 !== 0) {
@@ -10,3 +10,7 @@ function divideArray(nums: number[]): boolean {
     }
     return true;
 }
+// explain
+// count the number of each element
+// if the number of each element is even, return true
+// otherwise, return false
