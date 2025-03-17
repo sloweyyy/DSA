@@ -10,11 +10,11 @@ This repository documents my journey through Data Structures and Algorithms (DSA
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 26.79%
-- JavaScript: 21.67%
-- TypeScript: 15.55%
-- C++: 15.33%
-- C#: 14.30%
+- Java: 26.76%
+- JavaScript: 21.65%
+- TypeScript: 15.65%
+- C++: 15.31%
+- C#: 14.28%
 - Python: 4.76%
 - Go: 0.86%
 - Jupyter Notebook: 0.43%
