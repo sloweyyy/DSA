@@ -12,29 +12,29 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py) | Python | [b0fc48a](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py) | Python | [43364ba](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02012.%20Sum%20of%20Beauty%20in%20the%20Array.py) | Python | [f5df802](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03108.%20Minimum%20Cost%20Walk%20in%20Weighted%20Graph.js) | JavaScript | [initial](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II.ts) | TypeScript | [initial](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.ts) | TypeScript | [initial](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
-| [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.js) | JavaScript | [initial](https://github.com/sloweyyy/DSA/commit/a29e1a15d83e4299b254ae8d92899eff9f0b6a86) |
+| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py) | Python | [b0fc48a](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py) | Python | [43364ba](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02012.%20Sum%20of%20Beauty%20in%20the%20Array.py) | Python | [f5df802](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03108.%20Minimum%20Cost%20Walk%20in%20Weighted%20Graph.js) | JavaScript | [initial](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II.ts) | TypeScript | [initial](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.ts) | TypeScript | [initial](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
+| [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.js) | JavaScript | [initial](https://github.com/sloweyyy/DSA/commit/3a2f037d250d54d43b8a8a502f6467e7ab5ad3a5) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 23.16%
-- JavaScript: 21.86%
-- TypeScript: 17.46%
-- C++: 13.21%
-- C#: 13.05%
-- Python: 5.55%
-- Go: 5.22%
+- Java: 23.13%
+- JavaScript: 21.82%
+- TypeScript: 17.43%
+- C++: 13.19%
+- C#: 13.03%
+- Python: 5.70%
+- Go: 5.21%
 - Dart: 0.33%
 - PHP: 0.16%
 
@@ -77,4 +77,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2025-06-28 17:18:56 UTC*
+*Last updated: 2025-06-28 17:22:31 UTC*
