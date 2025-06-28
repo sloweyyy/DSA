@@ -14,16 +14,30 @@ from urllib.parse import quote
 
 
 def get_git_diff_files():
-    """Get list of files changed in the latest commit."""
+    """Get list of files changed in recent commits, excluding merge commits."""
     try:
+        # First, try to get files from the last non-merge commit
         result = subprocess.run(
-            ['git', 'diff', '--name-only', 'HEAD~1', 'HEAD'],
+            ['git', 'log', '--no-merges', '-1', '--name-only', '--pretty=format:'],
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             text=True,
             check=True
         )
-        return result.stdout.strip().split('\n') if result.stdout.strip() else []
+        files = [f for f in result.stdout.strip().split('\n') if f.strip()]
+
+        # If no files found, look at the last few commits for LeetCode files
+        if not files:
+            result = subprocess.run(
+                ['git', 'log', '--no-merges', '-5', '--name-only', '--pretty=format:', '--', 'LeetCode Daily/', 'Weekly Contest/'],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+                check=True
+            )
+            files = [f for f in result.stdout.strip().split('\n') if f.strip()]
+
+        return files
     except subprocess.CalledProcessError:
         print("Error getting git diff. Using all files.")
         return []
@@ -296,58 +310,88 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
         f.write(readme_content)
 
 
+def scan_for_recent_solutions():
+    """Scan for recently modified LeetCode solution files as a fallback."""
+    try:
+        # Get files modified in the last 5 commits
+        result = subprocess.run(
+            ['git', 'log', '--no-merges', '-5', '--name-only', '--pretty=format:', '--', 'LeetCode Daily/', 'Weekly Contest/'],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            check=True
+        )
+        files = [f for f in result.stdout.strip().split('\n') if f.strip() and not f.endswith('.md')]
+        return files
+    except subprocess.CalledProcessError:
+        return []
+
+
 def main():
     """Main function that processes solutions and updates README."""
     print("🔍 Processing LeetCode solutions...")
-    
+
     # Get changed files
     changed_files = get_git_diff_files()
-    
+
     # Filter for LeetCode solution files
     leetcode_files = []
     for file in changed_files:
         if ('LeetCode Daily' in file or 'Weekly Contest' in file) and not file.endswith('.md'):
             leetcode_files.append(file)
-    
+
+    # If no files found, scan for recent solutions as fallback
+    if not leetcode_files:
+        print("🔄 No files in recent commit, scanning for recent solutions...")
+        recent_files = scan_for_recent_solutions()
+        existing_solutions = load_existing_solutions()
+        existing_filepaths = {sol.get('filepath', '') for sol in existing_solutions}
+
+        # Only include files that aren't already in our solutions list
+        for file in recent_files:
+            if file not in existing_filepaths and os.path.exists(file):
+                leetcode_files.append(file)
+                print(f"🔍 Found recent solution: {file}")
+
     new_solutions = []
     commit_hash = get_commit_hash()
-    
+
     # Process new LeetCode files
     for filepath in leetcode_files:
         if os.path.exists(filepath):
             filename = os.path.basename(filepath)
             solution_info = extract_leetcode_info(filename)
-            
+
             if solution_info:
                 solution_info['filepath'] = filepath
                 solution_info['commit_hash'] = commit_hash
                 new_solutions.append(solution_info)
                 print(f"✅ Found: {solution_info['title']} ({solution_info['language']})")
-    
+
     if new_solutions:
         print(f"📝 Found {len(new_solutions)} new LeetCode solution(s)")
         latest_solutions = update_solutions_list(new_solutions)
     else:
-        print("No new LeetCode solutions found in the latest commit.")
+        print("No new LeetCode solutions found.")
         latest_solutions = load_existing_solutions()
-    
+
     # Generate language statistics
     print("📊 Calculating language statistics...")
     language_stats = get_language_stats()
     language_section = generate_language_section(language_stats)
-    
+
     # Generate latest solutions section
     print("📝 Generating latest solutions section...")
     latest_solutions_section = generate_latest_solutions_section(latest_solutions)
-    
+
     # Save the section to a file for the workflow to use
     with open('latest_solutions_section.txt', 'w') as f:
         f.write(latest_solutions_section)
-    
+
     # Update README
     print("🔄 Updating README...")
     update_readme(language_section, latest_solutions_section)
-    
+
     print("✅ README updated successfully!")
 
 

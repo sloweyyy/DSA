@@ -1,21 +1,5 @@
 [
   {
-    "problem_number": "03016",
-    "title": "Minimum Number of Pushes to Type Word II",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii",
-    "filepath": "LeetCode Daily/03016. Minimum Number of Pushes to Type Word II.js",
-    "commit_hash": "initial"
-  },
-  {
-    "problem_number": "03042",
-    "title": "Count Prefix and Suffix Pairs I",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
-    "filepath": "LeetCode Daily/03042. Count Prefix and Suffix Pairs I.java",
-    "commit_hash": "initial"
-  },
-  {
     "problem_number": "03043",
     "title": "Find the Length of the Longest Common Prefix",
     "language": "TypeScript",
@@ -78,5 +62,21 @@
     "leetcode_url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations",
     "filepath": "LeetCode Daily/02011. Final Value of Variable After Performing Operations.py",
     "commit_hash": "b0fc48a"
+  },
+  {
+    "problem_number": "02006",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k",
+    "filepath": "LeetCode Daily/02006. Count Number of Pairs With Absolute Difference K.py",
+    "commit_hash": "23a4133"
+  },
+  {
+    "problem_number": "02008",
+    "title": "Maximum Earnings From Taxi",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/maximum-earnings-from-taxi",
+    "filepath": "LeetCode Daily/02008. Maximum Earnings From Taxi.py",
+    "commit_hash": "2a0e284"
   }
 ]

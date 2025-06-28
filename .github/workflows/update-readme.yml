@@ -16,7 +16,7 @@ jobs:
             - name: Checkout repository
               uses: actions/checkout@v4
               with:
-                  fetch-depth: 2 # Fetch last 2 commits to compare changes
+                  fetch-depth: 10 # Fetch more commits to find actual solution changes
 
             - name: Set up Python
               uses: actions/setup-python@v5
