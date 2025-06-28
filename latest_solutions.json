@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "03011",
-    "title": "Find if Array Can Be Sorted",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/find-if-array-can-be-sorted",
-    "filepath": "LeetCode Daily/03011. Find if Array Can Be Sorted.py",
-    "commit_hash": "initial"
-  },
-  {
     "problem_number": "03016",
     "title": "Minimum Number of Pushes to Type Word II",
     "language": "JavaScript",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations",
     "filepath": "LeetCode Daily/2011. Final Value of Variable After Performing Operations.py",
     "commit_hash": "43364ba"
+  },
+  {
+    "problem_number": "02011",
+    "title": "Final Value of Variable After Performing Operations",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations",
+    "filepath": "LeetCode Daily/02011. Final Value of Variable After Performing Operations.py",
+    "commit_hash": "b0fc48a"
   }
 ]
