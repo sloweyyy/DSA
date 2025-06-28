@@ -1,29 +1,5 @@
 [
   {
-    "problem_number": "03097",
-    "title": "Shortest Subarray With OR at Least K II",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
-    "filepath": "LeetCode Daily/03097. Shortest Subarray With OR at Least K II.ts",
-    "commit_hash": "initial"
-  },
-  {
-    "problem_number": "03105",
-    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
-    "filepath": "LeetCode Daily/03105. Longest Strictly Increasing or Strictly Decreasing Subarray.java",
-    "commit_hash": "initial"
-  },
-  {
-    "problem_number": "03108",
-    "title": "Minimum Cost Walk in Weighted Graph",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
-    "filepath": "LeetCode Daily/03108. Minimum Cost Walk in Weighted Graph.js",
-    "commit_hash": "initial"
-  },
-  {
     "problem_number": "02012",
     "title": "Sum of Beauty in the Array",
     "language": "Python",
@@ -78,5 +54,29 @@
     "leetcode_url": "https://leetcode.com/problems/find-original-array-from-doubled-array",
     "filepath": "LeetCode Daily/02007. Find Original Array From Doubled Array.py",
     "commit_hash": "07460d1"
+  },
+  {
+    "problem_number": "00889",
+    "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal",
+    "filepath": "LeetCode Daily/00889. Construct Binary Tree from Preorder and Postorder Traversal.java",
+    "commit_hash": "a0f562e"
+  },
+  {
+    "problem_number": "01424",
+    "title": "Diagonal Traverse II",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/diagonal-traverse-ii",
+    "filepath": "LeetCode Daily/01424. Diagonal Traverse II.py",
+    "commit_hash": "a0f562e"
+  },
+  {
+    "problem_number": "03243",
+    "title": "Shortest Distance After Road Addition Queries I",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i",
+    "filepath": "LeetCode Daily/03243. Shortest Distance After Road Addition Queries I.ts",
+    "commit_hash": "a0f562e"
   }
 ]
