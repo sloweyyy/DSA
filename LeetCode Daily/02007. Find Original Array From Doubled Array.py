@@ -1,3 +1,6 @@
+from typing import List
+from collections import Counter
+
 class Solution:
     def findOriginalArray(self, changed: List[int]) -> List[int]:
         if len(changed) % 2 == 1:

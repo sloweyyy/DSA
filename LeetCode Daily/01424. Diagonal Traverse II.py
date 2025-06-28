@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def findDiagonalOrder(self, nums: List[List[int]]) -> List[int]:
         res = []

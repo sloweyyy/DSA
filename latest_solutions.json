@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "03066",
-    "title": "Minimum Operations to Exceed Threshold Value II",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii",
-    "filepath": "LeetCode Daily/03066. Minimum Operations to Exceed Threshold Value II.java",
-    "commit_hash": "initial"
-  },
-  {
     "problem_number": "03097",
     "title": "Shortest Subarray With OR at Least K II",
     "language": "TypeScript",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/same-tree",
     "filepath": "LeetCode Daily/00100. Same Tree.go",
     "commit_hash": "6de684e"
+  },
+  {
+    "problem_number": "02007",
+    "title": "Find Original Array From Doubled Array",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "filepath": "LeetCode Daily/02007. Find Original Array From Doubled Array.py",
+    "commit_hash": "07460d1"
   }
 ]
