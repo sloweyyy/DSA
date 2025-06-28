@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "02099",
-    "title": "Find Subsequence of Length K With the Largest Sum",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/description",
-    "filepath": "LeetCode Daily/02099. Find Subsequence of Length K With the Largest Sum.go",
-    "commit_hash": "715799d"
-  },
-  {
     "problem_number": "03011",
     "title": "Find if Array Can Be Sorted",
     "language": "Python",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/sum-of-beauty-in-the-array",
     "filepath": "LeetCode Daily/02012. Sum of Beauty in the Array.py",
     "commit_hash": "f5df802"
+  },
+  {
+    "problem_number": "2011",
+    "title": "Final Value of Variable After Performing Operations",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations",
+    "filepath": "LeetCode Daily/2011. Final Value of Variable After Performing Operations.py",
+    "commit_hash": "43364ba"
   }
 ]
