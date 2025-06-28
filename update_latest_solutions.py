@@ -207,17 +207,19 @@ def generate_latest_solutions_section(solutions):
     """Generate the Latest Solutions section for README."""
     if not solutions:
         return "No recent solutions found."
-    
+
     section = "| Problem | Solution | Language | Commit |\n"
     section += "|---------|----------|----------|--------|\n"
-    
+
     for solution in solutions:
         problem_link = f"[{solution['title']}]({solution['leetcode_url']})"
-        solution_link = f"[View Solution]({solution['filepath']})"
+        # Format the solution link as a proper GitHub blob URL
+        github_file_url = f"https://github.com/sloweyyy/DSA/blob/main/{solution['filepath'].replace(' ', '%20')}"
+        solution_link = f"[View Solution]({github_file_url})"
         commit_link = f"[{solution['commit_hash']}](https://github.com/sloweyyy/DSA/commit/{get_full_commit_hash()})"
-        
+
         section += f"| {problem_link} | {solution_link} | {solution['language']} | {commit_link} |\n"
-    
+
     return section
 
 
