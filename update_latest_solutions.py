@@ -211,7 +211,8 @@ def generate_latest_solutions_section(solutions):
     section = "| Problem | Solution | Language | Commit |\n"
     section += "|---------|----------|----------|--------|\n"
 
-    for solution in solutions:
+    # Reverse the solutions list to show newest first
+    for solution in reversed(solutions):
         problem_link = f"[{solution['title']}]({solution['leetcode_url']})"
         # Format the solution link as a proper GitHub blob URL
         github_file_url = f"https://github.com/sloweyyy/DSA/blob/main/{solution['filepath'].replace(' ', '%20')}"
