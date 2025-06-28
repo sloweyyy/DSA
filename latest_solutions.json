@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "03043",
-    "title": "Find the Length of the Longest Common Prefix",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
-    "filepath": "LeetCode Daily/03043. Find the Length of the Longest Common Prefix.ts",
-    "commit_hash": "initial"
-  },
-  {
     "problem_number": "03066",
     "title": "Minimum Operations to Exceed Threshold Value II",
     "language": "Java",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/maximum-earnings-from-taxi",
     "filepath": "LeetCode Daily/02008. Maximum Earnings From Taxi.py",
     "commit_hash": "2a0e284"
+  },
+  {
+    "problem_number": "00100",
+    "title": "Same Tree",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/same-tree",
+    "filepath": "LeetCode Daily/00100. Same Tree.go",
+    "commit_hash": "6de684e"
   }
 ]
