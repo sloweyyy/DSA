@@ -1,92 +1,82 @@
 [
   {
-    "problem_num": "02013",
-    "title": "Detect Squares",
-    "filepath": "LeetCode Daily/02013. Detect Squares.go",
-    "leetcode_url": "https://leetcode.com/problems/detect-squares",
-    "language": "Go",
-    "commit_hash": "19f2451",
-    "timestamp": "2025-06-28T16:58:03.354191"
-  },
-  {
-    "problem_num": "02099",
+    "problem_number": "02099",
     "title": "Find Subsequence of Length K With the Largest Sum",
-    "filepath": "LeetCode Daily/02099. Find Subsequence of Length K With the Largest Sum.go",
-    "leetcode_url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/description",
     "language": "Go",
-    "commit_hash": "715799d",
-    "timestamp": "2025-06-28T23:50:15.562983"
+    "leetcode_url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/description",
+    "filepath": "LeetCode Daily/02099. Find Subsequence of Length K With the Largest Sum.go",
+    "commit_hash": "715799d"
   },
   {
-    "problem_num": "03011",
+    "problem_number": "03011",
     "title": "Find if Array Can Be Sorted",
-    "filepath": "LeetCode Daily/03011. Find if Array Can Be Sorted.py",
-    "leetcode_url": "https://leetcode.com/problems/find-if-array-can-be-sorted",
     "language": "Python",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265151"
+    "leetcode_url": "https://leetcode.com/problems/find-if-array-can-be-sorted",
+    "filepath": "LeetCode Daily/03011. Find if Array Can Be Sorted.py",
+    "commit_hash": "initial"
   },
   {
-    "problem_num": "03016",
+    "problem_number": "03016",
     "title": "Minimum Number of Pushes to Type Word II",
-    "filepath": "LeetCode Daily/03016. Minimum Number of Pushes to Type Word II.js",
+    "language": "JavaScript",
     "leetcode_url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii",
-    "language": "JavaScript",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265176"
+    "filepath": "LeetCode Daily/03016. Minimum Number of Pushes to Type Word II.js",
+    "commit_hash": "initial"
   },
   {
-    "problem_num": "03042",
+    "problem_number": "03042",
     "title": "Count Prefix and Suffix Pairs I",
-    "filepath": "LeetCode Daily/03042. Count Prefix and Suffix Pairs I.java",
+    "language": "Java",
     "leetcode_url": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
-    "language": "Java",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265186"
+    "filepath": "LeetCode Daily/03042. Count Prefix and Suffix Pairs I.java",
+    "commit_hash": "initial"
   },
   {
-    "problem_num": "03043",
+    "problem_number": "03043",
     "title": "Find the Length of the Longest Common Prefix",
-    "filepath": "LeetCode Daily/03043. Find the Length of the Longest Common Prefix.ts",
+    "language": "TypeScript",
     "leetcode_url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
-    "language": "TypeScript",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265195"
+    "filepath": "LeetCode Daily/03043. Find the Length of the Longest Common Prefix.ts",
+    "commit_hash": "initial"
   },
   {
-    "problem_num": "03066",
+    "problem_number": "03066",
     "title": "Minimum Operations to Exceed Threshold Value II",
-    "filepath": "LeetCode Daily/03066. Minimum Operations to Exceed Threshold Value II.java",
+    "language": "Java",
     "leetcode_url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii",
-    "language": "Java",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265204"
+    "filepath": "LeetCode Daily/03066. Minimum Operations to Exceed Threshold Value II.java",
+    "commit_hash": "initial"
   },
   {
-    "problem_num": "03097",
+    "problem_number": "03097",
     "title": "Shortest Subarray With OR at Least K II",
-    "filepath": "LeetCode Daily/03097. Shortest Subarray With OR at Least K II.ts",
-    "leetcode_url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
     "language": "TypeScript",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265213"
+    "leetcode_url": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+    "filepath": "LeetCode Daily/03097. Shortest Subarray With OR at Least K II.ts",
+    "commit_hash": "initial"
   },
   {
-    "problem_num": "03105",
+    "problem_number": "03105",
     "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "filepath": "LeetCode Daily/03105. Longest Strictly Increasing or Strictly Decreasing Subarray.java",
-    "leetcode_url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
     "language": "Java",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265221"
+    "leetcode_url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "filepath": "LeetCode Daily/03105. Longest Strictly Increasing or Strictly Decreasing Subarray.java",
+    "commit_hash": "initial"
   },
   {
-    "problem_num": "03108",
+    "problem_number": "03108",
     "title": "Minimum Cost Walk in Weighted Graph",
-    "filepath": "LeetCode Daily/03108. Minimum Cost Walk in Weighted Graph.js",
-    "leetcode_url": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
     "language": "JavaScript",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265229"
+    "leetcode_url": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph",
+    "filepath": "LeetCode Daily/03108. Minimum Cost Walk in Weighted Graph.js",
+    "commit_hash": "initial"
+  },
+  {
+    "problem_number": "02012",
+    "title": "Sum of Beauty in the Array",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/sum-of-beauty-in-the-array",
+    "filepath": "LeetCode Daily/02012. Sum of Beauty in the Array.py",
+    "commit_hash": "f5df802"
   }
 ]

@@ -114,19 +114,34 @@ def save_solutions(solutions):
 def update_solutions_list(new_solutions):
     """Update the solutions list with new solutions."""
     existing_solutions = load_existing_solutions()
-    
+
+    # Normalize existing solutions to use consistent field names
+    normalized_existing = []
+    for sol in existing_solutions:
+        # Handle both old format (problem_num) and new format (problem_number)
+        problem_number = sol.get('problem_number') or sol.get('problem_num', '')
+        normalized_sol = {
+            'problem_number': problem_number,
+            'title': sol.get('title', ''),
+            'language': sol.get('language', ''),
+            'leetcode_url': sol.get('leetcode_url', ''),
+            'filepath': sol.get('filepath', ''),
+            'commit_hash': sol.get('commit_hash', '')
+        }
+        normalized_existing.append(normalized_sol)
+
     # Create a set of existing solution identifiers
-    existing_ids = {(sol['problem_number'], sol['language']) for sol in existing_solutions}
-    
+    existing_ids = {(sol['problem_number'], sol['language']) for sol in normalized_existing}
+
     # Add new solutions that don't already exist
     for solution in new_solutions:
         solution_id = (solution['problem_number'], solution['language'])
         if solution_id not in existing_ids:
-            existing_solutions.append(solution)
-    
+            normalized_existing.append(solution)
+
     # Keep only the latest 10 solutions
-    latest_solutions = existing_solutions[-10:]
-    
+    latest_solutions = normalized_existing[-10:]
+
     save_solutions(latest_solutions)
     return latest_solutions
 
