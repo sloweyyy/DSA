@@ -1,5 +1,14 @@
 [
   {
+    "problem_num": "02013",
+    "title": "Detect Squares",
+    "filepath": "LeetCode Daily/02013. Detect Squares.go",
+    "leetcode_url": "https://leetcode.com/problems/detect-squares",
+    "language": "Go",
+    "commit_hash": "19f2451",
+    "timestamp": "2025-06-28T16:58:03.354191"
+  },
+  {
     "problem_num": "02099",
     "title": "Find Subsequence of Length K With the Largest Sum",
     "filepath": "LeetCode Daily/02099. Find Subsequence of Length K With the Largest Sum.go",
@@ -79,14 +88,5 @@
     "language": "JavaScript",
     "commit_hash": "initial",
     "timestamp": "2025-06-28T16:36:49.265229"
-  },
-  {
-    "problem_num": "03133",
-    "title": "Minimum Array End",
-    "filepath": "LeetCode Daily/03133. Minimum Array End.ts",
-    "leetcode_url": "https://leetcode.com/problems/minimum-array-end",
-    "language": "TypeScript",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265236"
   }
 ]
