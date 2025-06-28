@@ -32,20 +32,6 @@ class Solution:
 
         return dp[-1]
 
-# Test with the failing case
-if __name__ == "__main__":
-    sol = Solution()
 
-    # Test case 1
-    n = 20
-    rides = [[1,6,1],[3,10,2],[10,12,3],[11,12,2],[12,15,2],[13,18,1]]
-    result = sol.maxTaxiEarnings(n, rides)
-    print(f"Test 1 - Result: {result}, Expected: 20")
-
-    # Test case 2
-    n = 5
-    rides = [[2,5,4],[1,5,1]]
-    result = sol.maxTaxiEarnings(n, rides)
-    print(f"Test 2 - Result: {result}, Expected: 7")
 
 
