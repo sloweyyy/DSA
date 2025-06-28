@@ -1,21 +1,42 @@
 #!/usr/bin/env python3
 import os
-import json
-import subprocess
 
 
 def get_language_stats():
-    """Get language statistics using github-linguist."""
-    try:
-        result = subprocess.run(
-            ['github-linguist', '--json'], stdout=subprocess.PIPE, check=True)
-        return json.loads(result.stdout)
-    except subprocess.CalledProcessError as e:
-        print(f"Error occurred while running github-linguist: {e}")
-        return {}
-    except FileNotFoundError:
-        print("The github-linguist command is not found. Make sure it is installed and accessible.")
-        return {}
+    """Get language statistics by analyzing file extensions."""
+    language_extensions = {
+        '.py': 'Python',
+        '.js': 'JavaScript',
+        '.ts': 'TypeScript',
+        '.java': 'Java',
+        '.go': 'Go',
+        '.cpp': 'C++',
+        '.cs': 'C#',
+        '.php': 'PHP',
+        '.dart': 'Dart',
+        '.hack': 'Hack'
+    }
+
+    language_counts = {}
+    total_files = 0
+
+    # Walk through LeetCode Daily and Weekly Contest directories
+    for root, _, files in os.walk('.'):
+        if 'LeetCode Daily' in root or 'Weekly Contest' in root:
+            for file in files:
+                total_files += 1
+                _, ext = os.path.splitext(file)
+                if ext in language_extensions:
+                    lang = language_extensions[ext]
+                    language_counts[lang] = language_counts.get(lang, 0) + 1
+
+    # Convert counts to percentages
+    language_stats = {}
+    for lang, count in language_counts.items():
+        percentage = (count / total_files) * 100 if total_files > 0 else 0
+        language_stats[lang] = {'size': percentage}
+
+    return language_stats
 
 
 def generate_language_section(language_stats):
@@ -23,21 +44,17 @@ def generate_language_section(language_stats):
     if not language_stats:
         return "No language statistics available."
 
-    total_bytes = 0
-    language_bytes = {}
-
+    # Extract percentages directly since we're now calculating them in get_language_stats
+    language_percentages = {}
     for language, data in language_stats.items():
         if isinstance(data, dict) and 'size' in data:
-            bytes_count = data['size']
-            language_bytes[language] = bytes_count
-            total_bytes += bytes_count
+            language_percentages[language] = data['size']
 
-    sorted_languages = sorted(language_bytes.items(),
+    sorted_languages = sorted(language_percentages.items(),
                               key=lambda item: item[1], reverse=True)
 
     language_section = ""
-    for language, bytes_ in sorted_languages:
-        percentage = (bytes_ / total_bytes) * 100 if total_bytes > 0 else 0
+    for language, percentage in sorted_languages:
         language_section += f"- {language}: {percentage:.2f}%\n"
 
     return language_section

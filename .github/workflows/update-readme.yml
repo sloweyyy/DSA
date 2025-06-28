@@ -19,36 +19,14 @@ jobs:
                   fetch-depth: 2 # Fetch last 2 commits to compare changes
 
             - name: Set up Python
-              uses: actions/setup-python@v4
+              uses: actions/setup-python@v5
               with:
-                  python-version: "3.x"
+                  python-version: "3.12"
 
-            - name: Install Ruby dependencies
+            - name: Update README with latest solutions
               run: |
-                  sudo apt-get update
-                  sudo apt-get install -y ruby ruby-dev
-                  sudo gem install github-linguist
-
-            - name: Install Python dependencies
-              run: |
-                  python3 -m venv venv
-                  source venv/bin/activate
-                  pip install --upgrade pip
-                  pip install pygments
-
-            - name: Update latest solutions
-              run: |
-                  source venv/bin/activate
-                  echo "🔍 Checking for new LeetCode solutions..."
-                  python update_latest_solutions.py
-
-            - name: Update README with language stats and latest solutions
-              run: |
-                  source venv/bin/activate
-                  echo "📊 Updating language statistics..."
-                  python calculate_stats.py
-                  echo "📝 Updating README with latest solutions..."
-                  python update_readme_with_solutions.py
+                  echo "🚀 Fast processing of LeetCode solutions and README update..."
+                  python update_readme_fast.py
 
             - name: Check for changes
               id: check_changes
