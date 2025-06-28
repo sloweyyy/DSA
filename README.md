@@ -28,13 +28,13 @@ Here are my most recent LeetCode solutions:
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 23.13%
-- JavaScript: 21.82%
-- TypeScript: 17.43%
-- C++: 13.19%
-- C#: 13.03%
-- Python: 5.70%
-- Go: 5.21%
+- Java: 23.16%
+- JavaScript: 21.86%
+- TypeScript: 17.46%
+- C++: 13.21%
+- C#: 13.05%
+- Python: 5.55%
+- Go: 5.22%
 - Dart: 0.33%
 - PHP: 0.16%
 
@@ -77,4 +77,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2025-06-29 00:21:50 UTC*
+*Last updated: 2025-06-28 17:18:56 UTC*
