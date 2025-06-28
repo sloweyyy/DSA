@@ -1,9 +1,12 @@
-name: Update README
+name: Update README with Latest Solutions
 
 on:
     push:
         branches:
             - main
+        paths:
+            - "LeetCode Daily/**"
+            - "Weekly Contest/**"
 
 jobs:
     update-readme:
@@ -11,7 +14,14 @@ jobs:
 
         steps:
             - name: Checkout repository
-              uses: actions/checkout@v2
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 2 # Fetch last 2 commits to compare changes
+
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.x"
 
             - name: Install Ruby dependencies
               run: |
@@ -19,24 +29,58 @@ jobs:
                   sudo apt-get install -y ruby ruby-dev
                   sudo gem install github-linguist
 
-            - name: Install Python dependencies in a virtual environment
+            - name: Install Python dependencies
               run: |
                   python3 -m venv venv
                   source venv/bin/activate
                   pip install --upgrade pip
                   pip install pygments
 
-            - name: Calculate language stats and update README
+            - name: Update latest solutions
               run: |
                   source venv/bin/activate
-                  python calculate_stats.py
+                  echo "🔍 Checking for new LeetCode solutions..."
+                  python update_latest_solutions.py
 
-            - name: Commit changes
+            - name: Update README with language stats and latest solutions
+              run: |
+                  source venv/bin/activate
+                  echo "📊 Updating language statistics..."
+                  python calculate_stats.py
+                  echo "📝 Updating README with latest solutions..."
+                  python update_readme_with_solutions.py
+
+            - name: Check for changes
+              id: check_changes
+              run: |
+                  if git diff --quiet README.md latest_solutions.json latest_solutions_section.txt; then
+                      echo "changes=false" >> $GITHUB_OUTPUT
+                      echo "✅ No changes detected"
+                  else
+                      echo "changes=true" >> $GITHUB_OUTPUT
+                      echo "📋 Changes detected in README or solution files"
+                  fi
+
+            - name: Commit and push changes
+              if: steps.check_changes.outputs.changes == 'true'
               run: |
                   git config --global user.name 'github-actions[bot]'
                   git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-                  git add README.md
-                  git commit -m 'Update README with language stats'
+                  git add README.md latest_solutions.json latest_solutions_section.txt
+                  git commit -m "📝 Update README with latest LeetCode solutions
+
+                  Auto-generated update including:
+                  - Latest solution entries
+                  - Updated language statistics
+                  - Refreshed solution links"
                   git push
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Summary
+              run: |
+                  if [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
+                      echo "🎉 README successfully updated with latest solutions!"
+                  else
+                      echo "ℹ️ No updates needed - README is already current"
+                  fi

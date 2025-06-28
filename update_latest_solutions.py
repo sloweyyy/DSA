@@ -51,15 +51,45 @@ def extract_problem_info(filename):
 
 def generate_leetcode_url(problem_num, title):
     """Generate LeetCode URL from problem number and title."""
-    # Convert title to URL-friendly format
+    # First, try to get URL from a mapping file if it exists
+    url_mapping = load_url_mapping()
+    problem_num_int = int(problem_num)
+
+    if str(problem_num_int) in url_mapping:
+        return url_mapping[str(problem_num_int)]
+
+    # Fallback: Convert title to URL-friendly format
     # Remove special characters and convert to lowercase with hyphens
     url_title = re.sub(r'[^\w\s-]', '', title.lower())
     url_title = re.sub(r'[-\s]+', '-', url_title).strip('-')
-    
-    # Remove leading zeros from problem number
-    problem_num_int = int(problem_num)
-    
+
     return f"https://leetcode.com/problems/{url_title}"
+
+
+def load_url_mapping():
+    """Load problem number to URL mapping from file."""
+    mapping_file = 'leetcode_url_mapping.json'
+    if os.path.exists(mapping_file):
+        try:
+            with open(mapping_file, 'r') as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            return {}
+    return {}
+
+
+def save_url_mapping(mapping):
+    """Save URL mapping to file."""
+    mapping_file = 'leetcode_url_mapping.json'
+    with open(mapping_file, 'w') as f:
+        json.dump(mapping, f, indent=2)
+
+
+def update_url_mapping(problem_num, correct_url):
+    """Update the URL mapping with a correct URL."""
+    mapping = load_url_mapping()
+    mapping[str(int(problem_num))] = correct_url
+    save_url_mapping(mapping)
 
 
 def get_language_display_name(extension):

@@ -1,5 +1,14 @@
 [
   {
+    "problem_num": "02099",
+    "title": "Find Subsequence of Length K With the Largest Sum",
+    "filepath": "LeetCode Daily/02099. Find Subsequence of Length K With the Largest Sum.go",
+    "leetcode_url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/description",
+    "language": "Go",
+    "commit_hash": "715799d",
+    "timestamp": "2025-06-28T23:50:15.562983"
+  },
+  {
     "problem_num": "03011",
     "title": "Find if Array Can Be Sorted",
     "filepath": "LeetCode Daily/03011. Find if Array Can Be Sorted.py",
@@ -79,14 +88,5 @@
     "language": "TypeScript",
     "commit_hash": "initial",
     "timestamp": "2025-06-28T16:36:49.265236"
-  },
-  {
-    "problem_num": "03151",
-    "title": "Special Array I",
-    "filepath": "LeetCode Daily/03151. Special Array I.java",
-    "leetcode_url": "https://leetcode.com/problems/special-array-i",
-    "language": "Java",
-    "commit_hash": "initial",
-    "timestamp": "2025-06-28T16:36:49.265243"
   }
 ]
