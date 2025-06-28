@@ -12,6 +12,7 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
+| [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02008.%20Maximum%20Earnings%20From%20Taxi.py) | Python | [2a0e284](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K.py) | Python | [23a4133](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py) | Python | [b0fc48a](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.py) | Python | [43364ba](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
@@ -21,7 +22,6 @@ Here are my most recent LeetCode solutions:
 | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03097.%20Shortest%20Subarray%20With%20OR%20at%20Least%20K%20II.ts) | TypeScript | [initial](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.ts) | TypeScript | [initial](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
-| [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.java) | Java | [initial](https://github.com/sloweyyy/DSA/commit/23a413328510e5ff04ed639a368ac0133fcf8511) |
 
 
 ## 📊 Languages Used
@@ -77,4 +77,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2025-06-29 00:25:34 UTC*
+*Last updated: 2025-06-29 00:26:20 UTC*
