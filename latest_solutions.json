@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "02012",
-    "title": "Sum of Beauty in the Array",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/sum-of-beauty-in-the-array",
-    "filepath": "LeetCode Daily/02012. Sum of Beauty in the Array.py",
-    "commit_hash": "f5df802"
-  },
-  {
     "problem_number": "2011",
     "title": "Final Value of Variable After Performing Operations",
     "language": "Python",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i",
     "filepath": "LeetCode Daily/03243. Shortest Distance After Road Addition Queries I.ts",
     "commit_hash": "a0f562e"
+  },
+  {
+    "problem_number": "001504",
+    "title": "Count Submatrices With All Ones",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/count-submatrices-with-all-ones",
+    "filepath": "LeetCode Daily/001504. Count Submatrices With All Ones.go",
+    "commit_hash": "1d3ee11"
   }
 ]
