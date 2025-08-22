@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "2011",
-    "title": "Final Value of Variable After Performing Operations",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations",
-    "filepath": "LeetCode Daily/2011. Final Value of Variable After Performing Operations.py",
-    "commit_hash": "43364ba"
-  },
-  {
     "problem_number": "02011",
     "title": "Final Value of Variable After Performing Operations",
     "language": "Python",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/count-submatrices-with-all-ones",
     "filepath": "LeetCode Daily/001504. Count Submatrices With All Ones.go",
     "commit_hash": "1d3ee11"
+  },
+  {
+    "problem_number": "03195",
+    "title": "Find the Minimum Area to Cover All Ones I",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i",
+    "filepath": "LeetCode Daily/03195. Find the Minimum Area to Cover All Ones I.go",
+    "commit_hash": "b6426c3"
   }
 ]
