@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "02008",
-    "title": "Maximum Earnings From Taxi",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/maximum-earnings-from-taxi",
-    "filepath": "LeetCode Daily/02008. Maximum Earnings From Taxi.py",
-    "commit_hash": "2a0e284"
-  },
-  {
     "problem_number": "00100",
     "title": "Same Tree",
     "language": "Go",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii",
     "filepath": "LeetCode Daily/03197. Find the Minimum Area to Cover All Ones II.go",
     "commit_hash": "a7a5e59"
+  },
+  {
+    "problem_number": "01493",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "filepath": "LeetCode Daily/01493. Longest Subarray of 1's After Deleting One Element.go",
+    "commit_hash": "0d2161a"
   }
 ]
