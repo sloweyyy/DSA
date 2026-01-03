@@ -1,21 +1,5 @@
 [
   {
-    "problem_number": "00100",
-    "title": "Same Tree",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/same-tree",
-    "filepath": "LeetCode Daily/00100. Same Tree.go",
-    "commit_hash": "6de684e"
-  },
-  {
-    "problem_number": "02007",
-    "title": "Find Original Array From Doubled Array",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/find-original-array-from-doubled-array",
-    "filepath": "LeetCode Daily/02007. Find Original Array From Doubled Array.py",
-    "commit_hash": "07460d1"
-  },
-  {
     "problem_number": "00889",
     "title": "Construct Binary Tree from Preorder and Postorder Traversal",
     "language": "Java",
@@ -78,5 +62,21 @@
     "leetcode_url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
     "filepath": "LeetCode Daily/01493. Longest Subarray of 1's After Deleting One Element.go",
     "commit_hash": "0d2161a"
+  },
+  {
+    "problem_number": "0066",
+    "title": "Plus One",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/plus-one",
+    "filepath": "LeetCode Daily/0066. Plus One.java",
+    "commit_hash": "1e5cbdb"
+  },
+  {
+    "problem_number": "00961",
+    "title": "N-Repeated Element in Size 2N Array",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+    "filepath": "LeetCode Daily/00961. N-Repeated Element in Size 2N Array.java",
+    "commit_hash": "1e5cbdb"
   }
 ]
