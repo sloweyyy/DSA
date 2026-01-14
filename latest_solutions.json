@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "00889",
-    "title": "Construct Binary Tree from Preorder and Postorder Traversal",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal",
-    "filepath": "LeetCode Daily/00889. Construct Binary Tree from Preorder and Postorder Traversal.java",
-    "commit_hash": "a0f562e"
-  },
-  {
     "problem_number": "01424",
     "title": "Diagonal Traverse II",
     "language": "Python",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
     "filepath": "LeetCode Daily/00961. N-Repeated Element in Size 2N Array.java",
     "commit_hash": "1e5cbdb"
+  },
+  {
+    "problem_number": "03454",
+    "title": "Separate Squares II",
+    "language": "C#",
+    "leetcode_url": "https://leetcode.com/problems/separate-squares-ii",
+    "filepath": "LeetCode Daily/03454. Separate Squares II.cs",
+    "commit_hash": "8070a62"
   }
 ]
