@@ -1,21 +1,5 @@
 [
   {
-    "problem_number": "01424",
-    "title": "Diagonal Traverse II",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/diagonal-traverse-ii",
-    "filepath": "LeetCode Daily/01424. Diagonal Traverse II.py",
-    "commit_hash": "a0f562e"
-  },
-  {
-    "problem_number": "03243",
-    "title": "Shortest Distance After Road Addition Queries I",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i",
-    "filepath": "LeetCode Daily/03243. Shortest Distance After Road Addition Queries I.ts",
-    "commit_hash": "a0f562e"
-  },
-  {
     "problem_number": "001504",
     "title": "Count Submatrices With All Ones",
     "language": "Go",
@@ -78,5 +62,21 @@
     "leetcode_url": "https://leetcode.com/problems/separate-squares-ii",
     "filepath": "LeetCode Daily/03454. Separate Squares II.cs",
     "commit_hash": "8070a62"
+  },
+  {
+    "problem_number": "001984",
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores",
+    "filepath": "LeetCode Daily/001984. Minimum Difference Between Highest and Lowest of K Scores.ts",
+    "commit_hash": "5a0883e"
+  },
+  {
+    "problem_number": "01292",
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "language": "C#",
+    "leetcode_url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "filepath": "LeetCode Daily/01292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold.cs",
+    "commit_hash": "5a0883e"
   }
 ]
