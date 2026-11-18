@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "001504",
-    "title": "Count Submatrices With All Ones",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/count-submatrices-with-all-ones",
-    "filepath": "LeetCode Daily/001504. Count Submatrices With All Ones.go",
-    "commit_hash": "1d3ee11"
-  },
-  {
     "problem_number": "03195",
     "title": "Find the Minimum Area to Cover All Ones I",
     "language": "Go",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
     "filepath": "LeetCode Daily/01292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold.cs",
     "commit_hash": "5a0883e"
+  },
+  {
+    "problem_number": "02914",
+    "title": "Minimum Number of Changes to Make Binary String Beautiful",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful",
+    "filepath": "LeetCode Daily/02914. Minimum Number of Changes to Make Binary String Beautiful.go",
+    "commit_hash": "ec8e478"
   }
 ]
