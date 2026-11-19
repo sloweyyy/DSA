@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "03195",
-    "title": "Find the Minimum Area to Cover All Ones I",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i",
-    "filepath": "LeetCode Daily/03195. Find the Minimum Area to Cover All Ones I.go",
-    "commit_hash": "b6426c3"
-  },
-  {
     "problem_number": "02008",
     "title": "Maximum Earnings From Taxi",
     "language": "Go",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful",
     "filepath": "LeetCode Daily/02914. Minimum Number of Changes to Make Binary String Beautiful.go",
     "commit_hash": "ec8e478"
+  },
+  {
+    "problem_number": "02567",
+    "title": "Minimum Score by Changing Two Elements",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/minimum-score-by-changing-two-elements",
+    "filepath": "LeetCode Daily/02567. Minimum Score by Changing Two Elements.php",
+    "commit_hash": "7fd1283"
   }
 ]
