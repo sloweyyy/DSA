@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "02008",
-    "title": "Maximum Earnings From Taxi",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/maximum-earnings-from-taxi",
-    "filepath": "LeetCode Daily/02008. Maximum Earnings From Taxi.go",
-    "commit_hash": "a7a5e59"
-  },
-  {
     "problem_number": "03197",
     "title": "Find the Minimum Area to Cover All Ones II",
     "language": "Go",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/minimum-score-by-changing-two-elements",
     "filepath": "LeetCode Daily/02567. Minimum Score by Changing Two Elements.php",
     "commit_hash": "7fd1283"
+  },
+  {
+    "problem_number": "03041",
+    "title": "Maximize Consecutive Elements in an Array After Modification",
+    "language": "JavaScript",
+    "leetcode_url": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification",
+    "filepath": "LeetCode Daily/03041. Maximize Consecutive Elements in an Array After Modification.js",
+    "commit_hash": "3a28dcc"
   }
 ]
