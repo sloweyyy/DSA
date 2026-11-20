@@ -1,0 +1,1 @@
+integer_replacement(N) -> replace(N, 0). replace(1, Count) -> Count; replace(N, Count) when N rem 2 =:= 0 -> replace(N div 2, Count + 1); replace(3, Count) -> Count + 2; replace(N, Count) when N rem 4 =:= 1 -> replace(N - 1, Count + 1); replace(N, Count) -> replace(N + 1, Count + 1).
