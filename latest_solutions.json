@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00434",
-    "title": "Number of Segments in a String",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/number-of-segments-in-a-string",
-    "filepath": "LeetCode Daily/00434. Number of Segments in a String.scala",
-    "commit_hash": "14729ad"
-  },
-  {
-    "problem_number": "00435",
-    "title": "Non-overlapping Intervals",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/non-overlapping-intervals",
-    "filepath": "LeetCode Daily/00435. Non-overlapping Intervals.php",
-    "commit_hash": "14729ad"
-  },
-  {
-    "problem_number": "00436",
-    "title": "Find Right Interval",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/find-right-interval",
-    "filepath": "LeetCode Daily/00436. Find Right Interval.php",
-    "commit_hash": "14729ad"
-  },
-  {
-    "problem_number": "00437",
-    "title": "Path Sum III",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/path-sum-iii",
-    "filepath": "LeetCode Daily/00437. Path Sum III.kt",
-    "commit_hash": "14729ad"
-  },
-  {
     "problem_number": "00438",
     "title": "Find All Anagrams in a String",
     "language": "Python",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/number-of-boomerangs",
     "filepath": "LeetCode Daily/00447. Number of Boomerangs.dart",
     "commit_hash": "fffde29"
+  },
+  {
+    "problem_number": "00448",
+    "title": "Find All Numbers Disappeared in an Array",
+    "language": "Racket",
+    "leetcode_url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+    "filepath": "LeetCode Daily/00448. Find All Numbers Disappeared in an Array.rkt",
+    "commit_hash": "1d6838b"
+  },
+  {
+    "problem_number": "00449",
+    "title": "Serialize and Deserialize BST",
+    "language": "Rust",
+    "leetcode_url": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+    "filepath": "LeetCode Daily/00449. Serialize and Deserialize BST.rs",
+    "commit_hash": "1d6838b"
+  },
+  {
+    "problem_number": "00450",
+    "title": "Delete Node in a BST",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/delete-node-in-a-bst",
+    "filepath": "LeetCode Daily/00450. Delete Node in a BST.cpp",
+    "commit_hash": "1d6838b"
+  },
+  {
+    "problem_number": "00452",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "filepath": "LeetCode Daily/00452. Minimum Number of Arrows to Burst Balloons.swift",
+    "commit_hash": "1d6838b"
   }
 ]
