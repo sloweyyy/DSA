@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00306",
-    "title": "Additive Number",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/additive-number",
-    "filepath": "LeetCode Daily/00306. Additive Number.php",
-    "commit_hash": "09cad70"
-  },
-  {
-    "problem_number": "00307",
-    "title": "Range Sum Query - Mutable",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/range-sum-query-mutable",
-    "filepath": "LeetCode Daily/00307. Range Sum Query - Mutable.js",
-    "commit_hash": "09cad70"
-  },
-  {
-    "problem_number": "00309",
-    "title": "Best Time to Buy and Sell Stock with Cooldown",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
-    "filepath": "LeetCode Daily/00309. Best Time to Buy and Sell Stock with Cooldown.ex",
-    "commit_hash": "09cad70"
-  },
-  {
-    "problem_number": "00310",
-    "title": "Minimum Height Trees",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/minimum-height-trees",
-    "filepath": "LeetCode Daily/00310. Minimum Height Trees.py",
-    "commit_hash": "09cad70"
-  },
-  {
-    "problem_number": "00312",
-    "title": "Burst Balloons",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/burst-balloons",
-    "filepath": "LeetCode Daily/00312. Burst Balloons.py",
-    "commit_hash": "09cad70"
-  },
-  {
     "problem_number": "00313",
     "title": "Super Ugly Number",
     "language": "C++",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/create-maximum-number",
     "filepath": "LeetCode Daily/00321. Create Maximum Number.c",
     "commit_hash": "91b6f67"
+  },
+  {
+    "problem_number": "00322",
+    "title": "Coin Change",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/coin-change",
+    "filepath": "LeetCode Daily/00322. Coin Change.c",
+    "commit_hash": "e7ad79d"
+  },
+  {
+    "problem_number": "00324",
+    "title": "Wiggle Sort II",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/wiggle-sort-ii",
+    "filepath": "LeetCode Daily/00324. Wiggle Sort II.c",
+    "commit_hash": "e7ad79d"
+  },
+  {
+    "problem_number": "00326",
+    "title": "Power of Three",
+    "language": "C#",
+    "leetcode_url": "https://leetcode.com/problems/power-of-three",
+    "filepath": "LeetCode Daily/00326. Power of Three.cs",
+    "commit_hash": "e7ad79d"
+  },
+  {
+    "problem_number": "00327",
+    "title": "Count of Range Sum",
+    "language": "JavaScript",
+    "leetcode_url": "https://leetcode.com/problems/count-of-range-sum",
+    "filepath": "LeetCode Daily/00327. Count of Range Sum.js",
+    "commit_hash": "e7ad79d"
+  },
+  {
+    "problem_number": "00328",
+    "title": "Odd Even Linked List",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/odd-even-linked-list",
+    "filepath": "LeetCode Daily/00328. Odd Even Linked List.java",
+    "commit_hash": "e7ad79d"
   }
 ]

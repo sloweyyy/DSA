@@ -12,16 +12,16 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00321.%20Create%20Maximum%20Number.c) | C | [91b6f67](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00319.%20Bulb%20Switcher.ex) | Elixir | [91b6f67](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00318.%20Maximum%20Product%20of%20Word%20Lengths.cs) | C# | [91b6f67](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cs) | C# | [91b6f67](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00313.%20Super%20Ugly%20Number.cpp) | C++ | [91b6f67](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Burst Balloons](https://leetcode.com/problems/burst-balloons) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00312.%20Burst%20Balloons.py) | Python | [09cad70](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00310.%20Minimum%20Height%20Trees.py) | Python | [09cad70](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.ex) | Elixir | [09cad70](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00307.%20Range%20Sum%20Query%20-%20Mutable.js) | JavaScript | [09cad70](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
-| [Additive Number](https://leetcode.com/problems/additive-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00306.%20Additive%20Number.php) | PHP | [09cad70](https://github.com/sloweyyy/DSA/commit/91b6f6797e0f5686d914263e0d81bec91af5407d) |
+| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00328.%20Odd%20Even%20Linked%20List.java) | Java | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00327.%20Count%20of%20Range%20Sum.js) | JavaScript | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Power of Three](https://leetcode.com/problems/power-of-three) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00326.%20Power%20of%20Three.cs) | C# | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00324.%20Wiggle%20Sort%20II.c) | C | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Coin Change](https://leetcode.com/problems/coin-change) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00322.%20Coin%20Change.c) | C | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00321.%20Create%20Maximum%20Number.c) | C | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00319.%20Bulb%20Switcher.ex) | Elixir | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00318.%20Maximum%20Product%20of%20Word%20Lengths.cs) | C# | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cs) | C# | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00313.%20Super%20Ugly%20Number.cpp) | C++ | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
 
 
 ## 📊 Languages Used
@@ -29,23 +29,23 @@ Here are my most recent LeetCode solutions:
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
 - Java: 20.18%
-- JavaScript: 18.47%
-- TypeScript: 15.57%
-- C++: 12.01%
-- C#: 11.74%
-- Go: 5.94%
-- Python: 5.54%
-- PHP: 1.72%
-- Elixir: 1.32%
-- Dart: 1.19%
-- Scala: 1.06%
+- JavaScript: 18.48%
+- TypeScript: 15.47%
+- C++: 11.93%
+- C#: 11.80%
+- Go: 5.90%
+- Python: 5.50%
+- PHP: 1.70%
+- Elixir: 1.31%
+- Dart: 1.18%
+- Scala: 1.05%
 - Rust: 0.92%
+- C: 0.92%
 - Kotlin: 0.92%
 - Ruby: 0.79%
-- C: 0.66%
 - Swift: 0.66%
-- Erlang: 0.53%
-- Bash: 0.53%
+- Erlang: 0.52%
+- Bash: 0.52%
 - Racket: 0.26%
 
 
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:42:59 UTC*
+*Last updated: 2026-11-20 09:45:53 UTC*
