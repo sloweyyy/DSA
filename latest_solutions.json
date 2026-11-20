@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "001984",
-    "title": "Minimum Difference Between Highest and Lowest of K Scores",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores",
-    "filepath": "LeetCode Daily/001984. Minimum Difference Between Highest and Lowest of K Scores.ts",
-    "commit_hash": "5a0883e"
-  },
-  {
     "problem_number": "01292",
     "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
     "language": "C#",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree",
     "filepath": "LeetCode Daily/00098. Validate Binary Search Tree.js",
     "commit_hash": "7642cf8"
+  },
+  {
+    "problem_number": "00098",
+    "title": "Validate Binary Search Tree",
+    "language": "Dart",
+    "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree",
+    "filepath": "LeetCode Daily/00098. Validate Binary Search Tree.dart",
+    "commit_hash": "76303f8"
   }
 ]
