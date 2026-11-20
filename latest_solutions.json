@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00297",
-    "title": "Serialize and Deserialize Binary Tree",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-    "filepath": "LeetCode Daily/00297. Serialize and Deserialize Binary Tree.kt",
-    "commit_hash": "aee80a7"
-  },
-  {
-    "problem_number": "00299",
-    "title": "Bulls and Cows",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/bulls-and-cows",
-    "filepath": "LeetCode Daily/00299. Bulls and Cows.php",
-    "commit_hash": "aee80a7"
-  },
-  {
-    "problem_number": "00301",
-    "title": "Remove Invalid Parentheses",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/remove-invalid-parentheses",
-    "filepath": "LeetCode Daily/00301. Remove Invalid Parentheses.go",
-    "commit_hash": "aee80a7"
-  },
-  {
-    "problem_number": "00303",
-    "title": "Range Sum Query - Immutable",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/range-sum-query-immutable",
-    "filepath": "LeetCode Daily/00303. Range Sum Query - Immutable.php",
-    "commit_hash": "aee80a7"
-  },
-  {
-    "problem_number": "00304",
-    "title": "Range Sum Query 2D - Immutable",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
-    "filepath": "LeetCode Daily/00304. Range Sum Query 2D - Immutable.go",
-    "commit_hash": "aee80a7"
-  },
-  {
     "problem_number": "00306",
     "title": "Additive Number",
     "language": "PHP",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/burst-balloons",
     "filepath": "LeetCode Daily/00312. Burst Balloons.py",
     "commit_hash": "09cad70"
+  },
+  {
+    "problem_number": "00313",
+    "title": "Super Ugly Number",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/super-ugly-number",
+    "filepath": "LeetCode Daily/00313. Super Ugly Number.cpp",
+    "commit_hash": "91b6f67"
+  },
+  {
+    "problem_number": "00315",
+    "title": "Count of Smaller Numbers After Self",
+    "language": "C#",
+    "leetcode_url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "filepath": "LeetCode Daily/00315. Count of Smaller Numbers After Self.cs",
+    "commit_hash": "91b6f67"
+  },
+  {
+    "problem_number": "00318",
+    "title": "Maximum Product of Word Lengths",
+    "language": "C#",
+    "leetcode_url": "https://leetcode.com/problems/maximum-product-of-word-lengths",
+    "filepath": "LeetCode Daily/00318. Maximum Product of Word Lengths.cs",
+    "commit_hash": "91b6f67"
+  },
+  {
+    "problem_number": "00319",
+    "title": "Bulb Switcher",
+    "language": "Elixir",
+    "leetcode_url": "https://leetcode.com/problems/bulb-switcher",
+    "filepath": "LeetCode Daily/00319. Bulb Switcher.ex",
+    "commit_hash": "91b6f67"
+  },
+  {
+    "problem_number": "00321",
+    "title": "Create Maximum Number",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/create-maximum-number",
+    "filepath": "LeetCode Daily/00321. Create Maximum Number.c",
+    "commit_hash": "91b6f67"
   }
 ]
