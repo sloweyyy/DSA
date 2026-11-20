@@ -1,0 +1,1 @@
+wiggle_max_length([First | Rest]) -> wiggle(Rest, First, 1, 1). wiggle([], _, Up, Down) -> max(Up, Down); wiggle([Value | Rest], Previous, _, Down) when Value > Previous -> wiggle(Rest, Value, Down + 1, Down); wiggle([Value | Rest], Previous, Up, _) when Value < Previous -> wiggle(Rest, Value, Up, Up + 1); wiggle([Value | Rest], _, Up, Down) -> wiggle(Rest, Value, Up, Down).
