@@ -12,35 +12,35 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00104.%20Maximum%20Depth%20of%20Binary%20Tree.c) | C | [0cf5c89](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.ex) | Elixir | [0cf5c89](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00102.%20Binary%20Tree%20Level%20Order%20Traversal.go) | Go | [0cf5c89](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00101.%20Symmetric%20Tree.erl) | Erlang | [0cf5c89](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00099.%20Recover%20Binary%20Search%20Tree.php) | PHP | [0cf5c89](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00098.%20Validate%20Binary%20Search%20Tree.dart) | Dart | [76303f8](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Interleaving String](https://leetcode.com/problems/interleaving-string) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00097.%20Interleaving%20String.js) | JavaScript | [7642cf8](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00096.%20Unique%20Binary%20Search%20Trees.cpp) | C++ | [7642cf8](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00093.%20Restore%20IP%20Addresses.go) | Go | [7642cf8](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
-| [Subsets II](https://leetcode.com/problems/subsets-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00090.%20Subsets%20II.java) | Java | [7642cf8](https://github.com/sloweyyy/DSA/commit/0cf5c8982bdd5261495bd60474fda8aa09ea956e) |
+| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.php) | PHP | [af09229](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.dart) | Dart | [af09229](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.ex) | Elixir | [af09229](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py) | Python | [af09229](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.js) | JavaScript | [af09229](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00104.%20Maximum%20Depth%20of%20Binary%20Tree.c) | C | [0cf5c89](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.ex) | Elixir | [0cf5c89](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00102.%20Binary%20Tree%20Level%20Order%20Traversal.go) | Go | [0cf5c89](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00101.%20Symmetric%20Tree.erl) | Erlang | [0cf5c89](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
+| [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00099.%20Recover%20Binary%20Search%20Tree.php) | PHP | [0cf5c89](https://github.com/sloweyyy/DSA/commit/af0922915b2ea0c481f2cfde75b0930d82c9f96d) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 22.71%
-- JavaScript: 21.15%
-- TypeScript: 16.80%
-- C#: 12.75%
-- C++: 12.75%
-- Go: 6.38%
-- Python: 5.60%
-- Rust: 0.47%
-- Dart: 0.47%
-- PHP: 0.47%
-- Elixir: 0.16%
-- C: 0.16%
-- Erlang: 0.16%
+- Java: 22.53%
+- JavaScript: 21.14%
+- TypeScript: 16.67%
+- C#: 12.65%
+- C++: 12.65%
+- Go: 6.33%
+- Python: 5.71%
+- Dart: 0.62%
+- PHP: 0.62%
+- Rust: 0.46%
+- Elixir: 0.31%
+- C: 0.15%
+- Erlang: 0.15%
 
 
 ## 📁 Contents
@@ -81,4 +81,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 08:21:22 UTC*
+*Last updated: 2026-11-20 08:31:57 UTC*
