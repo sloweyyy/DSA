@@ -12,40 +12,40 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [H-Index](https://leetcode.com/problems/h-index) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00274.%20H-Index.rs) | Rust | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Ugly Number](https://leetcode.com/problems/ugly-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00263.%20Ugly%20Number.ts) | TypeScript | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Trips and Users](https://leetcode.com/problems/trips-and-users) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00262.%20Trips%20and%20Users.py) | Python | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Single Number III](https://leetcode.com/problems/single-number-iii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00260.%20Single%20Number%20III.scala) | Scala | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Add Digits](https://leetcode.com/problems/add-digits) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00258.%20Add%20Digits.rb) | Ruby | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00257.%20Binary%20Tree%20Paths.cpp) | C++ | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00240.%20Search%20a%202D%20Matrix%20II.scala) | Scala | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00238.%20Product%20of%20Array%20Except%20Self.dart) | Dart | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00237.%20Delete%20Node%20in%20a%20Linked%20List.rb) | Ruby | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
-| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.scala) | Scala | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00284.%20Peeking%20Iterator.rb) | Ruby | [d7a3203](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00283.%20Move%20Zeroes.ts) | TypeScript | [d7a3203](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00282.%20Expression%20Add%20Operators.c) | C | [d7a3203](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [Perfect Squares](https://leetcode.com/problems/perfect-squares) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00279.%20Perfect%20Squares.ex) | Elixir | [d7a3203](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [First Bad Version](https://leetcode.com/problems/first-bad-version) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00278.%20First%20Bad%20Version.php) | PHP | [d7a3203](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [H-Index II](https://leetcode.com/problems/h-index-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00275.%20H-Index%20II.kt) | Kotlin | [d7a3203](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [H-Index](https://leetcode.com/problems/h-index) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00274.%20H-Index.rs) | Rust | [adb82d3](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [Ugly Number](https://leetcode.com/problems/ugly-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00263.%20Ugly%20Number.ts) | TypeScript | [adb82d3](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [Trips and Users](https://leetcode.com/problems/trips-and-users) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00262.%20Trips%20and%20Users.py) | Python | [adb82d3](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
+| [Single Number III](https://leetcode.com/problems/single-number-iii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00260.%20Single%20Number%20III.scala) | Scala | [adb82d3](https://github.com/sloweyyy/DSA/commit/d7a3203482f279891852fb8d6688b685da547305) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 20.74%
-- JavaScript: 18.96%
+- Java: 20.57%
+- JavaScript: 18.81%
 - TypeScript: 15.83%
-- C++: 12.14%
-- C#: 11.73%
-- Go: 5.87%
-- Python: 5.46%
-- Dart: 1.23%
-- PHP: 1.23%
-- Scala: 1.09%
-- Elixir: 0.95%
+- C++: 12.04%
+- C#: 11.64%
+- Go: 5.82%
+- Python: 5.41%
+- PHP: 1.35%
+- Dart: 1.22%
+- Elixir: 1.08%
+- Scala: 1.08%
 - Rust: 0.95%
-- Kotlin: 0.68%
-- Ruby: 0.68%
+- Ruby: 0.81%
+- Kotlin: 0.81%
 - Swift: 0.68%
-- Erlang: 0.55%
-- Bash: 0.55%
-- C: 0.41%
+- C: 0.54%
+- Bash: 0.54%
+- Erlang: 0.54%
 - Racket: 0.27%
 
 
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:27:22 UTC*
+*Last updated: 2026-11-20 09:31:34 UTC*

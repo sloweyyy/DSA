@@ -1,53 +1,5 @@
 [
   {
-    "problem_number": "00236",
-    "title": "Lowest Common Ancestor of a Binary Tree",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
-    "filepath": "LeetCode Daily/00236. Lowest Common Ancestor of a Binary Tree.scala",
-    "commit_hash": "d9c5d6e"
-  },
-  {
-    "problem_number": "00237",
-    "title": "Delete Node in a Linked List",
-    "language": "Ruby",
-    "leetcode_url": "https://leetcode.com/problems/delete-node-in-a-linked-list",
-    "filepath": "LeetCode Daily/00237. Delete Node in a Linked List.rb",
-    "commit_hash": "d9c5d6e"
-  },
-  {
-    "problem_number": "00238",
-    "title": "Product of Array Except Self",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self",
-    "filepath": "LeetCode Daily/00238. Product of Array Except Self.dart",
-    "commit_hash": "d9c5d6e"
-  },
-  {
-    "problem_number": "00240",
-    "title": "Search a 2D Matrix II",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix-ii",
-    "filepath": "LeetCode Daily/00240. Search a 2D Matrix II.scala",
-    "commit_hash": "adb82d3"
-  },
-  {
-    "problem_number": "00257",
-    "title": "Binary Tree Paths",
-    "language": "C++",
-    "leetcode_url": "https://leetcode.com/problems/binary-tree-paths",
-    "filepath": "LeetCode Daily/00257. Binary Tree Paths.cpp",
-    "commit_hash": "adb82d3"
-  },
-  {
-    "problem_number": "00258",
-    "title": "Add Digits",
-    "language": "Ruby",
-    "leetcode_url": "https://leetcode.com/problems/add-digits",
-    "filepath": "LeetCode Daily/00258. Add Digits.rb",
-    "commit_hash": "adb82d3"
-  },
-  {
     "problem_number": "00260",
     "title": "Single Number III",
     "language": "Scala",
@@ -78,5 +30,53 @@
     "leetcode_url": "https://leetcode.com/problems/h-index",
     "filepath": "LeetCode Daily/00274. H-Index.rs",
     "commit_hash": "adb82d3"
+  },
+  {
+    "problem_number": "00275",
+    "title": "H-Index II",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/h-index-ii",
+    "filepath": "LeetCode Daily/00275. H-Index II.kt",
+    "commit_hash": "d7a3203"
+  },
+  {
+    "problem_number": "00278",
+    "title": "First Bad Version",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/first-bad-version",
+    "filepath": "LeetCode Daily/00278. First Bad Version.php",
+    "commit_hash": "d7a3203"
+  },
+  {
+    "problem_number": "00279",
+    "title": "Perfect Squares",
+    "language": "Elixir",
+    "leetcode_url": "https://leetcode.com/problems/perfect-squares",
+    "filepath": "LeetCode Daily/00279. Perfect Squares.ex",
+    "commit_hash": "d7a3203"
+  },
+  {
+    "problem_number": "00282",
+    "title": "Expression Add Operators",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/expression-add-operators",
+    "filepath": "LeetCode Daily/00282. Expression Add Operators.c",
+    "commit_hash": "d7a3203"
+  },
+  {
+    "problem_number": "00283",
+    "title": "Move Zeroes",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/move-zeroes",
+    "filepath": "LeetCode Daily/00283. Move Zeroes.ts",
+    "commit_hash": "d7a3203"
+  },
+  {
+    "problem_number": "00284",
+    "title": "Peeking Iterator",
+    "language": "Ruby",
+    "leetcode_url": "https://leetcode.com/problems/peeking-iterator",
+    "filepath": "LeetCode Daily/00284. Peeking Iterator.rb",
+    "commit_hash": "d7a3203"
   }
 ]
