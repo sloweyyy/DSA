@@ -1,0 +1,1 @@
+count_numbers_with_unique_digits(0) -> 1; count_numbers_with_unique_digits(N) -> count_lengths(2, N, 9, 9, 10). count_lengths(Length, N, _, _, Total) when Length > N -> Total; count_lengths(Length, N, Ways, Available, Total) -> Next = Ways * Available, count_lengths(Length + 1, N, Next, Available - 1, Total + Next).
