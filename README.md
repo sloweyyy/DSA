@@ -12,38 +12,38 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00367.%20Valid%20Perfect%20Square.ts) | TypeScript | [8818fbf](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00365.%20Water%20and%20Jug%20Problem.c) | C | [8818fbf](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.go) | Go | [8818fbf](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00357.%20Count%20Numbers%20with%20Unique%20Digits.erl) | Erlang | [8818fbf](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00354.%20Russian%20Doll%20Envelopes.rb) | Ruby | [8818fbf](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00352.%20Data%20Stream%20as%20Disjoint%20Intervals.rb) | Ruby | [1b11054](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00347.%20Top%20K%20Frequent%20Elements.c) | C | [1b11054](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00345.%20Reverse%20Vowels%20of%20a%20String.rs) | Rust | [1b11054](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [Reverse String](https://leetcode.com/problems/reverse-string) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00344.%20Reverse%20String.js) | JavaScript | [1b11054](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
-| [House Robber III](https://leetcode.com/problems/house-robber-iii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00337.%20House%20Robber%20III.ex) | Elixir | [1b11054](https://github.com/sloweyyy/DSA/commit/8818fbfd1b5d2a29eb3b5b1614ae4516cfbd0fd3) |
+| [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00375.%20Guess%20Number%20Higher%20or%20Lower%20II.erl) | Erlang | [5532771](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00374.%20Guess%20Number%20Higher%20or%20Lower.php) | PHP | [5532771](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.c) | C | [5532771](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Super Pow](https://leetcode.com/problems/super-pow) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00372.%20Super%20Pow.py) | Python | [5532771](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00371.%20Sum%20of%20Two%20Integers.kt) | Kotlin | [5532771](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00367.%20Valid%20Perfect%20Square.ts) | TypeScript | [8818fbf](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00365.%20Water%20and%20Jug%20Problem.c) | C | [8818fbf](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.go) | Go | [8818fbf](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00357.%20Count%20Numbers%20with%20Unique%20Digits.erl) | Erlang | [8818fbf](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
+| [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00354.%20Russian%20Doll%20Envelopes.rb) | Ruby | [8818fbf](https://github.com/sloweyyy/DSA/commit/5532771acd83bc3053617ee9dc6fea6a8a200807) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 19.79%
-- JavaScript: 18.25%
-- TypeScript: 15.30%
-- C++: 11.83%
-- C#: 11.57%
-- Go: 5.91%
-- Python: 5.53%
-- PHP: 1.67%
-- Elixir: 1.41%
-- Scala: 1.29%
-- Dart: 1.16%
-- C: 1.16%
-- Rust: 1.03%
-- Ruby: 1.03%
-- Kotlin: 0.90%
-- Erlang: 0.77%
+- Java: 19.67%
+- JavaScript: 18.14%
+- TypeScript: 15.20%
+- C++: 11.75%
+- C#: 11.49%
+- Go: 5.87%
+- Python: 5.62%
+- PHP: 1.79%
+- Elixir: 1.40%
+- C: 1.28%
+- Scala: 1.28%
+- Dart: 1.15%
+- Rust: 1.02%
+- Kotlin: 1.02%
+- Ruby: 1.02%
+- Erlang: 0.89%
 - Swift: 0.64%
 - Bash: 0.51%
 - Racket: 0.26%
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:56:40 UTC*
+*Last updated: 2026-11-20 09:59:34 UTC*
