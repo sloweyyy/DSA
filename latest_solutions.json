@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00284",
-    "title": "Peeking Iterator",
-    "language": "Ruby",
-    "leetcode_url": "https://leetcode.com/problems/peeking-iterator",
-    "filepath": "LeetCode Daily/00284. Peeking Iterator.rb",
-    "commit_hash": "d7a3203"
-  },
-  {
-    "problem_number": "00289",
-    "title": "Game of Life",
-    "language": "C#",
-    "leetcode_url": "https://leetcode.com/problems/game-of-life",
-    "filepath": "LeetCode Daily/00289. Game of Life.cs",
-    "commit_hash": "e1c1aa5"
-  },
-  {
-    "problem_number": "00290",
-    "title": "Word Pattern",
-    "language": "C++",
-    "leetcode_url": "https://leetcode.com/problems/word-pattern",
-    "filepath": "LeetCode Daily/00290. Word Pattern.cpp",
-    "commit_hash": "e1c1aa5"
-  },
-  {
-    "problem_number": "00292",
-    "title": "Nim Game",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/nim-game",
-    "filepath": "LeetCode Daily/00292. Nim Game.ts",
-    "commit_hash": "e1c1aa5"
-  },
-  {
-    "problem_number": "00295",
-    "title": "Find Median from Data Stream",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/find-median-from-data-stream",
-    "filepath": "LeetCode Daily/00295. Find Median from Data Stream.java",
-    "commit_hash": "e1c1aa5"
-  },
-  {
     "problem_number": "00297",
     "title": "Serialize and Deserialize Binary Tree",
     "language": "Kotlin",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
     "filepath": "LeetCode Daily/00304. Range Sum Query 2D - Immutable.go",
     "commit_hash": "aee80a7"
+  },
+  {
+    "problem_number": "00306",
+    "title": "Additive Number",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/additive-number",
+    "filepath": "LeetCode Daily/00306. Additive Number.php",
+    "commit_hash": "09cad70"
+  },
+  {
+    "problem_number": "00307",
+    "title": "Range Sum Query - Mutable",
+    "language": "JavaScript",
+    "leetcode_url": "https://leetcode.com/problems/range-sum-query-mutable",
+    "filepath": "LeetCode Daily/00307. Range Sum Query - Mutable.js",
+    "commit_hash": "09cad70"
+  },
+  {
+    "problem_number": "00309",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "language": "Elixir",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "filepath": "LeetCode Daily/00309. Best Time to Buy and Sell Stock with Cooldown.ex",
+    "commit_hash": "09cad70"
+  },
+  {
+    "problem_number": "00310",
+    "title": "Minimum Height Trees",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/minimum-height-trees",
+    "filepath": "LeetCode Daily/00310. Minimum Height Trees.py",
+    "commit_hash": "09cad70"
+  },
+  {
+    "problem_number": "00312",
+    "title": "Burst Balloons",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/burst-balloons",
+    "filepath": "LeetCode Daily/00312. Burst Balloons.py",
+    "commit_hash": "09cad70"
   }
 ]
