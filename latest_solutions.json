@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00203",
-    "title": "Remove Linked List Elements",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/remove-linked-list-elements",
-    "filepath": "LeetCode Daily/00203. Remove Linked List Elements.dart",
-    "commit_hash": "49bc1f7"
-  },
-  {
-    "problem_number": "00204",
-    "title": "Count Primes",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/count-primes",
-    "filepath": "LeetCode Daily/00204. Count Primes.kt",
-    "commit_hash": "49bc1f7"
-  },
-  {
-    "problem_number": "00205",
-    "title": "Isomorphic Strings",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/isomorphic-strings",
-    "filepath": "LeetCode Daily/00205. Isomorphic Strings.ex",
-    "commit_hash": "49bc1f7"
-  },
-  {
-    "problem_number": "00207",
-    "title": "Course Schedule",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/course-schedule",
-    "filepath": "LeetCode Daily/00207. Course Schedule.kt",
-    "commit_hash": "f23265a"
-  },
-  {
     "problem_number": "00208",
     "title": "Implement Trie (Prefix Tree)",
     "language": "Go",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/combination-sum-iii",
     "filepath": "LeetCode Daily/00216. Combination Sum III.scala",
     "commit_hash": "c948140"
+  },
+  {
+    "problem_number": "00217",
+    "title": "Contains Duplicate",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/contains-duplicate",
+    "filepath": "LeetCode Daily/00217. Contains Duplicate.scala",
+    "commit_hash": "df55352"
+  },
+  {
+    "problem_number": "00218",
+    "title": "The Skyline Problem",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/the-skyline-problem",
+    "filepath": "LeetCode Daily/00218. The Skyline Problem.java",
+    "commit_hash": "df55352"
+  },
+  {
+    "problem_number": "00219",
+    "title": "Contains Duplicate II",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/contains-duplicate-ii",
+    "filepath": "LeetCode Daily/00219. Contains Duplicate II.c",
+    "commit_hash": "df55352"
+  },
+  {
+    "problem_number": "00220",
+    "title": "Contains Duplicate III",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/contains-duplicate-iii",
+    "filepath": "LeetCode Daily/00220. Contains Duplicate III.py",
+    "commit_hash": "df55352"
   }
 ]

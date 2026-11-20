@@ -12,41 +12,41 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00216.%20Combination%20Sum%20III.scala) | Scala | [c948140](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [House Robber II](https://leetcode.com/problems/house-robber-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00213.%20House%20Robber%20II.swift) | Swift | [c948140](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Word Search II](https://leetcode.com/problems/word-search-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00212.%20Word%20Search%20II.rb) | Ruby | [c948140](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.ex) | Elixir | [f23265a](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00210.%20Course%20Schedule%20II.java) | Java | [f23265a](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00208.%20Implement%20Trie%20(Prefix%20Tree).go) | Go | [f23265a](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Course Schedule](https://leetcode.com/problems/course-schedule) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00207.%20Course%20Schedule.kt) | Kotlin | [f23265a](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00205.%20Isomorphic%20Strings.ex) | Elixir | [49bc1f7](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Count Primes](https://leetcode.com/problems/count-primes) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00204.%20Count%20Primes.kt) | Kotlin | [49bc1f7](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
-| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00203.%20Remove%20Linked%20List%20Elements.dart) | Dart | [49bc1f7](https://github.com/sloweyyy/DSA/commit/c948140bcef042f8eb4781ffea1da056773fa62d) |
+| [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00220.%20Contains%20Duplicate%20III.py) | Python | [df55352](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00219.%20Contains%20Duplicate%20II.c) | C | [df55352](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00218.%20The%20Skyline%20Problem.java) | Java | [df55352](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00217.%20Contains%20Duplicate.scala) | Scala | [df55352](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00216.%20Combination%20Sum%20III.scala) | Scala | [c948140](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [House Robber II](https://leetcode.com/problems/house-robber-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00213.%20House%20Robber%20II.swift) | Swift | [c948140](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [Word Search II](https://leetcode.com/problems/word-search-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00212.%20Word%20Search%20II.rb) | Ruby | [c948140](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.ex) | Elixir | [f23265a](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00210.%20Course%20Schedule%20II.java) | Java | [f23265a](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
+| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00208.%20Implement%20Trie%20(Prefix%20Tree).go) | Go | [f23265a](https://github.com/sloweyyy/DSA/commit/df553526cc770f218b73aabf1bc9ea4a6767a5d9) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 21.30%
-- JavaScript: 19.32%
-- TypeScript: 16.08%
-- C++: 12.41%
-- C#: 12.13%
-- Go: 6.06%
-- Python: 5.36%
-- Dart: 1.13%
-- Elixir: 0.99%
-- PHP: 0.99%
-- Rust: 0.85%
-- Swift: 0.71%
-- Bash: 0.56%
+- Java: 21.32%
+- JavaScript: 19.21%
+- TypeScript: 15.99%
+- C++: 12.34%
+- C#: 12.06%
+- Go: 6.03%
+- Python: 5.47%
+- Dart: 1.12%
+- PHP: 0.98%
+- Elixir: 0.98%
+- Rust: 0.84%
+- Swift: 0.70%
 - Kotlin: 0.56%
+- Bash: 0.56%
+- Scala: 0.56%
 - Ruby: 0.42%
-- Scala: 0.42%
+- C: 0.28%
 - Racket: 0.28%
 - Erlang: 0.28%
-- C: 0.14%
 
 
 ## 📁 Contents
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:14:22 UTC*
+*Last updated: 2026-11-20 09:16:34 UTC*
