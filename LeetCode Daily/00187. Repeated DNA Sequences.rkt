@@ -1,0 +1,1 @@
+(define (find-repeated-dna-sequences s) (define counts (make-hash)) (define result (quote ())) (for ([start (in-range (max 0 (- (string-length s) 9)))]) (define fragment (substring s start (+ start 10))) (define count (hash-ref counts fragment 0)) (when (= count 1) (set! result (cons fragment result))) (hash-set! counts fragment (add1 count))) result)
