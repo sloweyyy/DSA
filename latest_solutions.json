@@ -1,29 +1,5 @@
 [
   {
-    "problem_number": "00404",
-    "title": "Sum of Left Leaves",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/sum-of-left-leaves",
-    "filepath": "LeetCode Daily/00404. Sum of Left Leaves.erl",
-    "commit_hash": "80bdc15"
-  },
-  {
-    "problem_number": "00405",
-    "title": "Convert a Number to Hexadecimal",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
-    "filepath": "LeetCode Daily/00405. Convert a Number to Hexadecimal.kt",
-    "commit_hash": "d21641c"
-  },
-  {
-    "problem_number": "00406",
-    "title": "Queue Reconstruction by Height",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/queue-reconstruction-by-height",
-    "filepath": "LeetCode Daily/00406. Queue Reconstruction by Height.dart",
-    "commit_hash": "d21641c"
-  },
-  {
     "problem_number": "00409",
     "title": "Longest Palindrome",
     "language": "Swift",
@@ -78,5 +54,29 @@
     "leetcode_url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
     "filepath": "LeetCode Daily/00417. Pacific Atlantic Water Flow.py",
     "commit_hash": "a136f9b"
+  },
+  {
+    "problem_number": "00419",
+    "title": "Battleships in a Board",
+    "language": "C#",
+    "leetcode_url": "https://leetcode.com/problems/battleships-in-a-board",
+    "filepath": "LeetCode Daily/00419. Battleships in a Board.cs",
+    "commit_hash": "8ebe296"
+  },
+  {
+    "problem_number": "00420",
+    "title": "Strong Password Checker",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/strong-password-checker",
+    "filepath": "LeetCode Daily/00420. Strong Password Checker.kt",
+    "commit_hash": "8ebe296"
+  },
+  {
+    "problem_number": "00421",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "language": "Racket",
+    "leetcode_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+    "filepath": "LeetCode Daily/00421. Maximum XOR of Two Numbers in an Array.rkt",
+    "commit_hash": "8ebe296"
   }
 ]
