@@ -1,0 +1,1 @@
+sum_of_left_leaves(Root) -> sum_leaves(Root, false). sum_leaves(null, _) -> 0; sum_leaves(#tree_node{val = Value, left = null, right = null}, true) -> Value; sum_leaves(#tree_node{left = Left, right = Right}, _) -> sum_leaves(Left, true) + sum_leaves(Right, false).
