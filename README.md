@@ -12,40 +12,40 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Tenth Line](https://leetcode.com/problems/tenth-line) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00195.%20Tenth%20Line.sh) | Bash | [ade9e0f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Transpose File](https://leetcode.com/problems/transpose-file) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00194.%20Transpose%20File.sh) | Bash | [ade9e0f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00193.%20Valid%20Phone%20Numbers.sh) | Bash | [ade9e0f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Word Frequency](https://leetcode.com/problems/word-frequency) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00192.%20Word%20Frequency.sh) | Bash | [11ea31f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00190.%20Reverse%20Bits.rs) | Rust | [11ea31f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Rotate Array](https://leetcode.com/problems/rotate-array) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00189.%20Rotate%20Array.cpp) | C++ | [11ea31f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00187.%20Repeated%20DNA%20Sequences.rkt) | Racket | [11ea31f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Dungeon Game](https://leetcode.com/problems/dungeon-game) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00174.%20Dungeon%20Game.php) | PHP | [11ea31f](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00173.%20Binary%20Search%20Tree%20Iterator.go) | Go | [01e551d](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
-| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00172.%20Factorial%20Trailing%20Zeroes.php) | PHP | [01e551d](https://github.com/sloweyyy/DSA/commit/ade9e0f8ed1d10070b2fc06e7c0450be6f611142) |
+| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00205.%20Isomorphic%20Strings.ex) | Elixir | [49bc1f7](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Count Primes](https://leetcode.com/problems/count-primes) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00204.%20Count%20Primes.kt) | Kotlin | [49bc1f7](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00203.%20Remove%20Linked%20List%20Elements.dart) | Dart | [49bc1f7](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Happy Number](https://leetcode.com/problems/happy-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00202.%20Happy%20Number.ex) | Elixir | [49bc1f7](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00200.%20Number%20of%20Islands.cs) | C# | [49bc1f7](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00199.%20Binary%20Tree%20Right%20Side%20View.dart) | Dart | [49bc1f7](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Tenth Line](https://leetcode.com/problems/tenth-line) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00195.%20Tenth%20Line.sh) | Bash | [ade9e0f](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Transpose File](https://leetcode.com/problems/transpose-file) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00194.%20Transpose%20File.sh) | Bash | [ade9e0f](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00193.%20Valid%20Phone%20Numbers.sh) | Bash | [ade9e0f](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
+| [Word Frequency](https://leetcode.com/problems/word-frequency) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00192.%20Word%20Frequency.sh) | Bash | [11ea31f](https://github.com/sloweyyy/DSA/commit/49bc1f712e3c31cf7004f390a4cadacdca221296) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 21.55%
-- JavaScript: 19.68%
-- TypeScript: 16.38%
-- C++: 12.64%
-- C#: 12.21%
-- Go: 6.03%
-- Python: 5.46%
-- PHP: 1.01%
-- Rust: 0.86%
-- Dart: 0.86%
-- Elixir: 0.57%
+- Java: 21.37%
+- JavaScript: 19.52%
+- TypeScript: 16.24%
+- C++: 12.54%
+- C#: 12.25%
+- Go: 5.98%
+- Python: 5.41%
+- Dart: 1.14%
+- PHP: 1.00%
+- Elixir: 0.85%
+- Rust: 0.85%
 - Bash: 0.57%
 - Swift: 0.57%
-- Erlang: 0.29%
-- Kotlin: 0.29%
-- Racket: 0.29%
-- Scala: 0.29%
-- Ruby: 0.29%
+- Kotlin: 0.43%
+- Erlang: 0.28%
+- Racket: 0.28%
+- Scala: 0.28%
+- Ruby: 0.28%
 - C: 0.14%
 
 
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:06:37 UTC*
+*Last updated: 2026-11-20 09:10:09 UTC*
