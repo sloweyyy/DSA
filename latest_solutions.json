@@ -1,61 +1,5 @@
 [
   {
-    "problem_number": "00224",
-    "title": "Basic Calculator",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/basic-calculator",
-    "filepath": "LeetCode Daily/00224. Basic Calculator.php",
-    "commit_hash": "219d233"
-  },
-  {
-    "problem_number": "00226",
-    "title": "Invert Binary Tree",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/invert-binary-tree",
-    "filepath": "LeetCode Daily/00226. Invert Binary Tree.scala",
-    "commit_hash": "219d233"
-  },
-  {
-    "problem_number": "00227",
-    "title": "Basic Calculator II",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/basic-calculator-ii",
-    "filepath": "LeetCode Daily/00227. Basic Calculator II.php",
-    "commit_hash": "a09c0b3"
-  },
-  {
-    "problem_number": "00230",
-    "title": "Kth Smallest Element in a BST",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
-    "filepath": "LeetCode Daily/00230. Kth Smallest Element in a BST.js",
-    "commit_hash": "a09c0b3"
-  },
-  {
-    "problem_number": "00233",
-    "title": "Number of Digit One",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/number-of-digit-one",
-    "filepath": "LeetCode Daily/00233. Number of Digit One.js",
-    "commit_hash": "a09c0b3"
-  },
-  {
-    "problem_number": "00234",
-    "title": "Palindrome Linked List",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/palindrome-linked-list",
-    "filepath": "LeetCode Daily/00234. Palindrome Linked List.kt",
-    "commit_hash": "a09c0b3"
-  },
-  {
-    "problem_number": "00235",
-    "title": "Lowest Common Ancestor of a Binary Search Tree",
-    "language": "C",
-    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
-    "filepath": "LeetCode Daily/00235. Lowest Common Ancestor of a Binary Search Tree.c",
-    "commit_hash": "a09c0b3"
-  },
-  {
     "problem_number": "00236",
     "title": "Lowest Common Ancestor of a Binary Tree",
     "language": "Scala",
@@ -78,5 +22,61 @@
     "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self",
     "filepath": "LeetCode Daily/00238. Product of Array Except Self.dart",
     "commit_hash": "d9c5d6e"
+  },
+  {
+    "problem_number": "00240",
+    "title": "Search a 2D Matrix II",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "filepath": "LeetCode Daily/00240. Search a 2D Matrix II.scala",
+    "commit_hash": "adb82d3"
+  },
+  {
+    "problem_number": "00257",
+    "title": "Binary Tree Paths",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-paths",
+    "filepath": "LeetCode Daily/00257. Binary Tree Paths.cpp",
+    "commit_hash": "adb82d3"
+  },
+  {
+    "problem_number": "00258",
+    "title": "Add Digits",
+    "language": "Ruby",
+    "leetcode_url": "https://leetcode.com/problems/add-digits",
+    "filepath": "LeetCode Daily/00258. Add Digits.rb",
+    "commit_hash": "adb82d3"
+  },
+  {
+    "problem_number": "00260",
+    "title": "Single Number III",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/single-number-iii",
+    "filepath": "LeetCode Daily/00260. Single Number III.scala",
+    "commit_hash": "adb82d3"
+  },
+  {
+    "problem_number": "00262",
+    "title": "Trips and Users",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/trips-and-users",
+    "filepath": "LeetCode Daily/00262. Trips and Users.py",
+    "commit_hash": "adb82d3"
+  },
+  {
+    "problem_number": "00263",
+    "title": "Ugly Number",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/ugly-number",
+    "filepath": "LeetCode Daily/00263. Ugly Number.ts",
+    "commit_hash": "adb82d3"
+  },
+  {
+    "problem_number": "00274",
+    "title": "H-Index",
+    "language": "Rust",
+    "leetcode_url": "https://leetcode.com/problems/h-index",
+    "filepath": "LeetCode Daily/00274. H-Index.rs",
+    "commit_hash": "adb82d3"
   }
 ]

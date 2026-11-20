@@ -12,41 +12,41 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00238.%20Product%20of%20Array%20Except%20Self.dart) | Dart | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00237.%20Delete%20Node%20in%20a%20Linked%20List.rb) | Ruby | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.scala) | Scala | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.c) | C | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00234.%20Palindrome%20Linked%20List.kt) | Kotlin | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Number of Digit One](https://leetcode.com/problems/number-of-digit-one) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00233.%20Number%20of%20Digit%20One.js) | JavaScript | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00230.%20Kth%20Smallest%20Element%20in%20a%20BST.js) | JavaScript | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00227.%20Basic%20Calculator%20II.php) | PHP | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00226.%20Invert%20Binary%20Tree.scala) | Scala | [219d233](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
-| [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00224.%20Basic%20Calculator.php) | PHP | [219d233](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [H-Index](https://leetcode.com/problems/h-index) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00274.%20H-Index.rs) | Rust | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Ugly Number](https://leetcode.com/problems/ugly-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00263.%20Ugly%20Number.ts) | TypeScript | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Trips and Users](https://leetcode.com/problems/trips-and-users) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00262.%20Trips%20and%20Users.py) | Python | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Single Number III](https://leetcode.com/problems/single-number-iii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00260.%20Single%20Number%20III.scala) | Scala | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Add Digits](https://leetcode.com/problems/add-digits) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00258.%20Add%20Digits.rb) | Ruby | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00257.%20Binary%20Tree%20Paths.cpp) | C++ | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00240.%20Search%20a%202D%20Matrix%20II.scala) | Scala | [adb82d3](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00238.%20Product%20of%20Array%20Except%20Self.dart) | Dart | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00237.%20Delete%20Node%20in%20a%20Linked%20List.rb) | Ruby | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
+| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.scala) | Scala | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/adb82d313c0a1bd6187d79a603c94ac160b6bc27) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 20.94%
-- JavaScript: 19.15%
-- TypeScript: 15.84%
-- C++: 12.12%
-- C#: 11.85%
-- Go: 5.92%
-- Python: 5.37%
-- Dart: 1.24%
-- PHP: 1.24%
-- Elixir: 0.96%
-- Rust: 0.83%
-- Scala: 0.83%
-- Kotlin: 0.69%
-- Swift: 0.69%
+- Java: 20.74%
+- JavaScript: 18.96%
+- TypeScript: 15.83%
+- C++: 12.14%
+- C#: 11.73%
+- Go: 5.87%
+- Python: 5.46%
+- Dart: 1.23%
+- PHP: 1.23%
+- Scala: 1.09%
+- Elixir: 0.95%
+- Rust: 0.95%
+- Kotlin: 0.68%
+- Ruby: 0.68%
+- Swift: 0.68%
 - Erlang: 0.55%
-- Ruby: 0.55%
 - Bash: 0.55%
 - C: 0.41%
-- Racket: 0.28%
+- Racket: 0.27%
 
 
 ## 📁 Contents
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:23:04 UTC*
+*Last updated: 2026-11-20 09:27:22 UTC*
