@@ -12,39 +12,39 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00328.%20Odd%20Even%20Linked%20List.java) | Java | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00327.%20Count%20of%20Range%20Sum.js) | JavaScript | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Power of Three](https://leetcode.com/problems/power-of-three) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00326.%20Power%20of%20Three.cs) | C# | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00324.%20Wiggle%20Sort%20II.c) | C | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Coin Change](https://leetcode.com/problems/coin-change) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00322.%20Coin%20Change.c) | C | [e7ad79d](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00321.%20Create%20Maximum%20Number.c) | C | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00319.%20Bulb%20Switcher.ex) | Elixir | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00318.%20Maximum%20Product%20of%20Word%20Lengths.cs) | C# | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cs) | C# | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
-| [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00313.%20Super%20Ugly%20Number.cpp) | C++ | [91b6f67](https://github.com/sloweyyy/DSA/commit/e7ad79d2a8d7a8e8a36c685776fb0752bd08525a) |
+| [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00336.%20Palindrome%20Pairs.cpp) | C++ | [7108b44](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Self Crossing](https://leetcode.com/problems/self-crossing) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00335.%20Self%20Crossing.scala) | Scala | [7108b44](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.py) | Python | [7108b44](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Patching Array](https://leetcode.com/problems/patching-array) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00330.%20Patching%20Array.scala) | Scala | [7108b44](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.erl) | Erlang | [7108b44](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00328.%20Odd%20Even%20Linked%20List.java) | Java | [e7ad79d](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00327.%20Count%20of%20Range%20Sum.js) | JavaScript | [e7ad79d](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Power of Three](https://leetcode.com/problems/power-of-three) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00326.%20Power%20of%20Three.cs) | C# | [e7ad79d](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00324.%20Wiggle%20Sort%20II.c) | C | [e7ad79d](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
+| [Coin Change](https://leetcode.com/problems/coin-change) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00322.%20Coin%20Change.c) | C | [e7ad79d](https://github.com/sloweyyy/DSA/commit/7108b44cc113e03a8e9630cf8a7fa16973af1c88) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 20.18%
-- JavaScript: 18.48%
-- TypeScript: 15.47%
-- C++: 11.93%
-- C#: 11.80%
-- Go: 5.90%
-- Python: 5.50%
-- PHP: 1.70%
-- Elixir: 1.31%
-- Dart: 1.18%
-- Scala: 1.05%
-- Rust: 0.92%
-- C: 0.92%
-- Kotlin: 0.92%
-- Ruby: 0.79%
-- Swift: 0.66%
-- Erlang: 0.52%
+- Java: 20.05%
+- JavaScript: 18.36%
+- TypeScript: 15.36%
+- C++: 11.98%
+- C#: 11.72%
+- Go: 5.86%
+- Python: 5.60%
+- PHP: 1.69%
+- Elixir: 1.30%
+- Scala: 1.30%
+- Dart: 1.17%
+- Rust: 0.91%
+- Kotlin: 0.91%
+- C: 0.91%
+- Ruby: 0.78%
+- Erlang: 0.65%
+- Swift: 0.65%
 - Bash: 0.52%
 - Racket: 0.26%
 
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:45:53 UTC*
+*Last updated: 2026-11-20 09:51:00 UTC*
