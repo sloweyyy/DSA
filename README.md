@@ -12,40 +12,40 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.c) | C | [a09c0b3](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00234.%20Palindrome%20Linked%20List.kt) | Kotlin | [a09c0b3](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Number of Digit One](https://leetcode.com/problems/number-of-digit-one) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00233.%20Number%20of%20Digit%20One.js) | JavaScript | [a09c0b3](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00230.%20Kth%20Smallest%20Element%20in%20a%20BST.js) | JavaScript | [a09c0b3](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00227.%20Basic%20Calculator%20II.php) | PHP | [a09c0b3](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00226.%20Invert%20Binary%20Tree.scala) | Scala | [219d233](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00224.%20Basic%20Calculator.php) | PHP | [219d233](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Rectangle Area](https://leetcode.com/problems/rectangle-area) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00223.%20Rectangle%20Area.erl) | Erlang | [219d233](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00222.%20Count%20Complete%20Tree%20Nodes.ts) | TypeScript | [219d233](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
-| [Maximal Square](https://leetcode.com/problems/maximal-square) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00221.%20Maximal%20Square.erl) | Erlang | [219d233](https://github.com/sloweyyy/DSA/commit/a09c0b3dc3cbaa2a3b95ee9a8bfcdbaf0186996b) |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00238.%20Product%20of%20Array%20Except%20Self.dart) | Dart | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00237.%20Delete%20Node%20in%20a%20Linked%20List.rb) | Ruby | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.scala) | Scala | [d9c5d6e](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.c) | C | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00234.%20Palindrome%20Linked%20List.kt) | Kotlin | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Number of Digit One](https://leetcode.com/problems/number-of-digit-one) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00233.%20Number%20of%20Digit%20One.js) | JavaScript | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00230.%20Kth%20Smallest%20Element%20in%20a%20BST.js) | JavaScript | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00227.%20Basic%20Calculator%20II.php) | PHP | [a09c0b3](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00226.%20Invert%20Binary%20Tree.scala) | Scala | [219d233](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
+| [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00224.%20Basic%20Calculator.php) | PHP | [219d233](https://github.com/sloweyyy/DSA/commit/d9c5d6ef00f8087a965432559c5c067a0abb2ae2) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 21.02%
-- JavaScript: 19.23%
-- TypeScript: 15.91%
-- C++: 12.17%
-- C#: 11.89%
-- Go: 5.95%
-- Python: 5.39%
+- Java: 20.94%
+- JavaScript: 19.15%
+- TypeScript: 15.84%
+- C++: 12.12%
+- C#: 11.85%
+- Go: 5.92%
+- Python: 5.37%
+- Dart: 1.24%
 - PHP: 1.24%
-- Dart: 1.11%
-- Elixir: 0.97%
+- Elixir: 0.96%
 - Rust: 0.83%
+- Scala: 0.83%
 - Kotlin: 0.69%
-- Scala: 0.69%
 - Swift: 0.69%
 - Erlang: 0.55%
+- Ruby: 0.55%
 - Bash: 0.55%
 - C: 0.41%
-- Ruby: 0.41%
 - Racket: 0.28%
 
 
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 09:21:39 UTC*
+*Last updated: 2026-11-20 09:23:04 UTC*

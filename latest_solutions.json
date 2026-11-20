@@ -1,29 +1,5 @@
 [
   {
-    "problem_number": "00221",
-    "title": "Maximal Square",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/maximal-square",
-    "filepath": "LeetCode Daily/00221. Maximal Square.erl",
-    "commit_hash": "219d233"
-  },
-  {
-    "problem_number": "00222",
-    "title": "Count Complete Tree Nodes",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/count-complete-tree-nodes",
-    "filepath": "LeetCode Daily/00222. Count Complete Tree Nodes.ts",
-    "commit_hash": "219d233"
-  },
-  {
-    "problem_number": "00223",
-    "title": "Rectangle Area",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/rectangle-area",
-    "filepath": "LeetCode Daily/00223. Rectangle Area.erl",
-    "commit_hash": "219d233"
-  },
-  {
     "problem_number": "00224",
     "title": "Basic Calculator",
     "language": "PHP",
@@ -78,5 +54,29 @@
     "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
     "filepath": "LeetCode Daily/00235. Lowest Common Ancestor of a Binary Search Tree.c",
     "commit_hash": "a09c0b3"
+  },
+  {
+    "problem_number": "00236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "filepath": "LeetCode Daily/00236. Lowest Common Ancestor of a Binary Tree.scala",
+    "commit_hash": "d9c5d6e"
+  },
+  {
+    "problem_number": "00237",
+    "title": "Delete Node in a Linked List",
+    "language": "Ruby",
+    "leetcode_url": "https://leetcode.com/problems/delete-node-in-a-linked-list",
+    "filepath": "LeetCode Daily/00237. Delete Node in a Linked List.rb",
+    "commit_hash": "d9c5d6e"
+  },
+  {
+    "problem_number": "00238",
+    "title": "Product of Array Except Self",
+    "language": "Dart",
+    "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self",
+    "filepath": "LeetCode Daily/00238. Product of Array Except Self.dart",
+    "commit_hash": "d9c5d6e"
   }
 ]
