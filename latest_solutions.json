@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00192",
-    "title": "Word Frequency",
-    "language": "Bash",
-    "leetcode_url": "https://leetcode.com/problems/word-frequency",
-    "filepath": "LeetCode Daily/00192. Word Frequency.sh",
-    "commit_hash": "11ea31f"
-  },
-  {
-    "problem_number": "00193",
-    "title": "Valid Phone Numbers",
-    "language": "Bash",
-    "leetcode_url": "https://leetcode.com/problems/valid-phone-numbers",
-    "filepath": "LeetCode Daily/00193. Valid Phone Numbers.sh",
-    "commit_hash": "ade9e0f"
-  },
-  {
-    "problem_number": "00194",
-    "title": "Transpose File",
-    "language": "Bash",
-    "leetcode_url": "https://leetcode.com/problems/transpose-file",
-    "filepath": "LeetCode Daily/00194. Transpose File.sh",
-    "commit_hash": "ade9e0f"
-  },
-  {
-    "problem_number": "00195",
-    "title": "Tenth Line",
-    "language": "Bash",
-    "leetcode_url": "https://leetcode.com/problems/tenth-line",
-    "filepath": "LeetCode Daily/00195. Tenth Line.sh",
-    "commit_hash": "ade9e0f"
-  },
-  {
     "problem_number": "00199",
     "title": "Binary Tree Right Side View",
     "language": "Dart",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/isomorphic-strings",
     "filepath": "LeetCode Daily/00205. Isomorphic Strings.ex",
     "commit_hash": "49bc1f7"
+  },
+  {
+    "problem_number": "00207",
+    "title": "Course Schedule",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule",
+    "filepath": "LeetCode Daily/00207. Course Schedule.kt",
+    "commit_hash": "f23265a"
+  },
+  {
+    "problem_number": "00208",
+    "title": "Implement Trie (Prefix Tree)",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "filepath": "LeetCode Daily/00208. Implement Trie (Prefix Tree).go",
+    "commit_hash": "f23265a"
+  },
+  {
+    "problem_number": "00210",
+    "title": "Course Schedule II",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule-ii",
+    "filepath": "LeetCode Daily/00210. Course Schedule II.java",
+    "commit_hash": "f23265a"
+  },
+  {
+    "problem_number": "00211",
+    "title": "Design Add and Search Words Data Structure",
+    "language": "Elixir",
+    "leetcode_url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "filepath": "LeetCode Daily/00211. Design Add and Search Words Data Structure.ex",
+    "commit_hash": "f23265a"
   }
 ]
