@@ -1,29 +1,5 @@
 [
   {
-    "problem_number": "00381",
-    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
-    "filepath": "LeetCode Daily/00381. Insert Delete GetRandom O(1) - Duplicates allowed.java",
-    "commit_hash": "f0c48f0"
-  },
-  {
-    "problem_number": "00382",
-    "title": "Linked List Random Node",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/linked-list-random-node",
-    "filepath": "LeetCode Daily/00382. Linked List Random Node.go",
-    "commit_hash": "f0c48f0"
-  },
-  {
-    "problem_number": "00383",
-    "title": "Ransom Note",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/ransom-note",
-    "filepath": "LeetCode Daily/00383. Ransom Note.py",
-    "commit_hash": "f0c48f0"
-  },
-  {
     "problem_number": "00384",
     "title": "Shuffle an Array",
     "language": "Elixir",
@@ -78,5 +54,29 @@
     "leetcode_url": "https://leetcode.com/problems/decode-string",
     "filepath": "LeetCode Daily/00394. Decode String.py",
     "commit_hash": "a69f5d8"
+  },
+  {
+    "problem_number": "00395",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "filepath": "LeetCode Daily/00395. Longest Substring with At Least K Repeating Characters.erl",
+    "commit_hash": "bb8384d"
+  },
+  {
+    "problem_number": "00396",
+    "title": "Rotate Function",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/rotate-function",
+    "filepath": "LeetCode Daily/00396. Rotate Function.kt",
+    "commit_hash": "bb8384d"
+  },
+  {
+    "problem_number": "00397",
+    "title": "Integer Replacement",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/integer-replacement",
+    "filepath": "LeetCode Daily/00397. Integer Replacement.erl",
+    "commit_hash": "bb8384d"
   }
 ]

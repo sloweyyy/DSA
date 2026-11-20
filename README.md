@@ -12,38 +12,38 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Decode String](https://leetcode.com/problems/decode-string) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00394.%20Decode%20String.py) | Python | [a69f5d8](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00393.%20UTF-8%20Validation.dart) | Dart | [a69f5d8](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00391.%20Perfect%20Rectangle.cs) | C# | [a69f5d8](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Elimination Game](https://leetcode.com/problems/elimination-game) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00390.%20Elimination%20Game.dart) | Dart | [d9467aa](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00388.%20Longest%20Absolute%20File%20Path.py) | Python | [d9467aa](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Mini Parser](https://leetcode.com/problems/mini-parser) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00385.%20Mini%20Parser.php) | PHP | [d9467aa](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00384.%20Shuffle%20an%20Array.ex) | Elixir | [d9467aa](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Ransom Note](https://leetcode.com/problems/ransom-note) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00383.%20Ransom%20Note.py) | Python | [f0c48f0](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00382.%20Linked%20List%20Random%20Node.go) | Go | [f0c48f0](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
-| [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.java) | Java | [f0c48f0](https://github.com/sloweyyy/DSA/commit/a69f5d8ead4c15fe44e4a84d9b9a80aebe1d2a9b) |
+| [Integer Replacement](https://leetcode.com/problems/integer-replacement) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00397.%20Integer%20Replacement.erl) | Erlang | [bb8384d](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Rotate Function](https://leetcode.com/problems/rotate-function) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00396.%20Rotate%20Function.kt) | Kotlin | [bb8384d](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.erl) | Erlang | [bb8384d](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Decode String](https://leetcode.com/problems/decode-string) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00394.%20Decode%20String.py) | Python | [a69f5d8](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00393.%20UTF-8%20Validation.dart) | Dart | [a69f5d8](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00391.%20Perfect%20Rectangle.cs) | C# | [a69f5d8](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Elimination Game](https://leetcode.com/problems/elimination-game) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00390.%20Elimination%20Game.dart) | Dart | [d9467aa](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00388.%20Longest%20Absolute%20File%20Path.py) | Python | [d9467aa](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Mini Parser](https://leetcode.com/problems/mini-parser) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00385.%20Mini%20Parser.php) | PHP | [d9467aa](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
+| [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00384.%20Shuffle%20an%20Array.ex) | Elixir | [d9467aa](https://github.com/sloweyyy/DSA/commit/bb8384d049168d4fa45036a4771d789d43f0f64e) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 19.50%
-- JavaScript: 17.86%
-- TypeScript: 14.97%
-- C++: 11.57%
-- C#: 11.45%
-- Go: 6.04%
-- Python: 5.91%
-- PHP: 1.89%
-- Elixir: 1.51%
+- Java: 19.42%
+- JavaScript: 17.79%
+- TypeScript: 14.91%
+- C++: 11.53%
+- C#: 11.40%
+- Go: 6.02%
+- Python: 5.89%
+- PHP: 1.88%
+- Elixir: 1.50%
 - Dart: 1.38%
-- Scala: 1.26%
-- C: 1.26%
-- Rust: 1.01%
-- Kotlin: 1.01%
-- Ruby: 1.01%
-- Erlang: 1.01%
+- Scala: 1.25%
+- C: 1.25%
+- Erlang: 1.25%
+- Kotlin: 1.13%
+- Rust: 1.00%
+- Ruby: 1.00%
 - Swift: 0.63%
 - Bash: 0.50%
 - Racket: 0.25%
@@ -87,4 +87,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 10:07:26 UTC*
+*Last updated: 2026-11-20 10:09:02 UTC*
