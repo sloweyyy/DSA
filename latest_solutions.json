@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00106",
-    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
-    "filepath": "LeetCode Daily/00106. Construct Binary Tree from Inorder and Postorder Traversal.py",
-    "commit_hash": "af09229"
-  },
-  {
-    "problem_number": "00107",
-    "title": "Binary Tree Level Order Traversal II",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
-    "filepath": "LeetCode Daily/00107. Binary Tree Level Order Traversal II.ex",
-    "commit_hash": "af09229"
-  },
-  {
-    "problem_number": "00108",
-    "title": "Convert Sorted Array to Binary Search Tree",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
-    "filepath": "LeetCode Daily/00108. Convert Sorted Array to Binary Search Tree.dart",
-    "commit_hash": "af09229"
-  },
-  {
-    "problem_number": "00109",
-    "title": "Convert Sorted List to Binary Search Tree",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
-    "filepath": "LeetCode Daily/00109. Convert Sorted List to Binary Search Tree.php",
-    "commit_hash": "af09229"
-  },
-  {
     "problem_number": "00112",
     "title": "Path Sum",
     "language": "Racket",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
     "filepath": "LeetCode Daily/00117. Populating Next Right Pointers in Each Node II.rb",
     "commit_hash": "c57d898"
+  },
+  {
+    "problem_number": "00120",
+    "title": "Triangle",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/triangle",
+    "filepath": "LeetCode Daily/00120. Triangle.kt",
+    "commit_hash": "4c99b66"
+  },
+  {
+    "problem_number": "00121",
+    "title": "Best Time to Buy and Sell Stock",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "filepath": "LeetCode Daily/00121. Best Time to Buy and Sell Stock.ts",
+    "commit_hash": "4c99b66"
+  },
+  {
+    "problem_number": "00122",
+    "title": "Best Time to Buy and Sell Stock II",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "filepath": "LeetCode Daily/00122. Best Time to Buy and Sell Stock II.ts",
+    "commit_hash": "4c99b66"
+  },
+  {
+    "problem_number": "00125",
+    "title": "Valid Palindrome",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/valid-palindrome",
+    "filepath": "LeetCode Daily/00125. Valid Palindrome.swift",
+    "commit_hash": "4c99b66"
   }
 ]
