@@ -1,29 +1,5 @@
 [
   {
-    "problem_number": "00166",
-    "title": "Fraction to Recurring Decimal",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/fraction-to-recurring-decimal",
-    "filepath": "LeetCode Daily/00166. Fraction to Recurring Decimal.py",
-    "commit_hash": "01e551d"
-  },
-  {
-    "problem_number": "00167",
-    "title": "Two Sum II - Input Array Is Sorted",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
-    "filepath": "LeetCode Daily/00167. Two Sum II - Input Array Is Sorted.ex",
-    "commit_hash": "01e551d"
-  },
-  {
-    "problem_number": "00171",
-    "title": "Excel Sheet Column Number",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/excel-sheet-column-number",
-    "filepath": "LeetCode Daily/00171. Excel Sheet Column Number.php",
-    "commit_hash": "01e551d"
-  },
-  {
     "problem_number": "00172",
     "title": "Factorial Trailing Zeroes",
     "language": "PHP",
@@ -78,5 +54,29 @@
     "leetcode_url": "https://leetcode.com/problems/word-frequency",
     "filepath": "LeetCode Daily/00192. Word Frequency.sh",
     "commit_hash": "11ea31f"
+  },
+  {
+    "problem_number": "00193",
+    "title": "Valid Phone Numbers",
+    "language": "Bash",
+    "leetcode_url": "https://leetcode.com/problems/valid-phone-numbers",
+    "filepath": "LeetCode Daily/00193. Valid Phone Numbers.sh",
+    "commit_hash": "ade9e0f"
+  },
+  {
+    "problem_number": "00194",
+    "title": "Transpose File",
+    "language": "Bash",
+    "leetcode_url": "https://leetcode.com/problems/transpose-file",
+    "filepath": "LeetCode Daily/00194. Transpose File.sh",
+    "commit_hash": "ade9e0f"
+  },
+  {
+    "problem_number": "00195",
+    "title": "Tenth Line",
+    "language": "Bash",
+    "leetcode_url": "https://leetcode.com/problems/tenth-line",
+    "filepath": "LeetCode Daily/00195. Tenth Line.sh",
+    "commit_hash": "ade9e0f"
   }
 ]
