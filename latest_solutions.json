@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00275",
-    "title": "H-Index II",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/h-index-ii",
-    "filepath": "LeetCode Daily/00275. H-Index II.kt",
-    "commit_hash": "d7a3203"
-  },
-  {
-    "problem_number": "00278",
-    "title": "First Bad Version",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/first-bad-version",
-    "filepath": "LeetCode Daily/00278. First Bad Version.php",
-    "commit_hash": "d7a3203"
-  },
-  {
-    "problem_number": "00279",
-    "title": "Perfect Squares",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/perfect-squares",
-    "filepath": "LeetCode Daily/00279. Perfect Squares.ex",
-    "commit_hash": "d7a3203"
-  },
-  {
-    "problem_number": "00282",
-    "title": "Expression Add Operators",
-    "language": "C",
-    "leetcode_url": "https://leetcode.com/problems/expression-add-operators",
-    "filepath": "LeetCode Daily/00282. Expression Add Operators.c",
-    "commit_hash": "d7a3203"
-  },
-  {
-    "problem_number": "00283",
-    "title": "Move Zeroes",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/move-zeroes",
-    "filepath": "LeetCode Daily/00283. Move Zeroes.ts",
-    "commit_hash": "d7a3203"
-  },
-  {
     "problem_number": "00284",
     "title": "Peeking Iterator",
     "language": "Ruby",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/find-median-from-data-stream",
     "filepath": "LeetCode Daily/00295. Find Median from Data Stream.java",
     "commit_hash": "e1c1aa5"
+  },
+  {
+    "problem_number": "00297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "filepath": "LeetCode Daily/00297. Serialize and Deserialize Binary Tree.kt",
+    "commit_hash": "aee80a7"
+  },
+  {
+    "problem_number": "00299",
+    "title": "Bulls and Cows",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/bulls-and-cows",
+    "filepath": "LeetCode Daily/00299. Bulls and Cows.php",
+    "commit_hash": "aee80a7"
+  },
+  {
+    "problem_number": "00301",
+    "title": "Remove Invalid Parentheses",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "filepath": "LeetCode Daily/00301. Remove Invalid Parentheses.go",
+    "commit_hash": "aee80a7"
+  },
+  {
+    "problem_number": "00303",
+    "title": "Range Sum Query - Immutable",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/range-sum-query-immutable",
+    "filepath": "LeetCode Daily/00303. Range Sum Query - Immutable.php",
+    "commit_hash": "aee80a7"
+  },
+  {
+    "problem_number": "00304",
+    "title": "Range Sum Query 2D - Immutable",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "filepath": "LeetCode Daily/00304. Range Sum Query 2D - Immutable.go",
+    "commit_hash": "aee80a7"
   }
 ]
