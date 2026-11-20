@@ -1,53 +1,5 @@
 [
   {
-    "problem_number": "00419",
-    "title": "Battleships in a Board",
-    "language": "C#",
-    "leetcode_url": "https://leetcode.com/problems/battleships-in-a-board",
-    "filepath": "LeetCode Daily/00419. Battleships in a Board.cs",
-    "commit_hash": "8ebe296"
-  },
-  {
-    "problem_number": "00420",
-    "title": "Strong Password Checker",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/strong-password-checker",
-    "filepath": "LeetCode Daily/00420. Strong Password Checker.kt",
-    "commit_hash": "8ebe296"
-  },
-  {
-    "problem_number": "00421",
-    "title": "Maximum XOR of Two Numbers in an Array",
-    "language": "Racket",
-    "leetcode_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
-    "filepath": "LeetCode Daily/00421. Maximum XOR of Two Numbers in an Array.rkt",
-    "commit_hash": "8ebe296"
-  },
-  {
-    "problem_number": "00423",
-    "title": "Reconstruct Original Digits from English",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
-    "filepath": "LeetCode Daily/00423. Reconstruct Original Digits from English.php",
-    "commit_hash": "14729ad"
-  },
-  {
-    "problem_number": "00424",
-    "title": "Longest Repeating Character Replacement",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/longest-repeating-character-replacement",
-    "filepath": "LeetCode Daily/00424. Longest Repeating Character Replacement.js",
-    "commit_hash": "14729ad"
-  },
-  {
-    "problem_number": "00433",
-    "title": "Minimum Genetic Mutation",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/minimum-genetic-mutation",
-    "filepath": "LeetCode Daily/00433. Minimum Genetic Mutation.erl",
-    "commit_hash": "14729ad"
-  },
-  {
     "problem_number": "00434",
     "title": "Number of Segments in a String",
     "language": "Scala",
@@ -78,5 +30,53 @@
     "leetcode_url": "https://leetcode.com/problems/path-sum-iii",
     "filepath": "LeetCode Daily/00437. Path Sum III.kt",
     "commit_hash": "14729ad"
+  },
+  {
+    "problem_number": "00438",
+    "title": "Find All Anagrams in a String",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "filepath": "LeetCode Daily/00438. Find All Anagrams in a String.py",
+    "commit_hash": "fffde29"
+  },
+  {
+    "problem_number": "00441",
+    "title": "Arranging Coins",
+    "language": "Dart",
+    "leetcode_url": "https://leetcode.com/problems/arranging-coins",
+    "filepath": "LeetCode Daily/00441. Arranging Coins.dart",
+    "commit_hash": "fffde29"
+  },
+  {
+    "problem_number": "00442",
+    "title": "Find All Duplicates in an Array",
+    "language": "Ruby",
+    "leetcode_url": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+    "filepath": "LeetCode Daily/00442. Find All Duplicates in an Array.rb",
+    "commit_hash": "fffde29"
+  },
+  {
+    "problem_number": "00443",
+    "title": "String Compression",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/string-compression",
+    "filepath": "LeetCode Daily/00443. String Compression.cpp",
+    "commit_hash": "fffde29"
+  },
+  {
+    "problem_number": "00445",
+    "title": "Add Two Numbers II",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/add-two-numbers-ii",
+    "filepath": "LeetCode Daily/00445. Add Two Numbers II.kt",
+    "commit_hash": "fffde29"
+  },
+  {
+    "problem_number": "00447",
+    "title": "Number of Boomerangs",
+    "language": "Dart",
+    "leetcode_url": "https://leetcode.com/problems/number-of-boomerangs",
+    "filepath": "LeetCode Daily/00447. Number of Boomerangs.dart",
+    "commit_hash": "fffde29"
   }
 ]
