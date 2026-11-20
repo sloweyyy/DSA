@@ -1,0 +1,1 @@
+(define/contract (find-disappeared-numbers nums) (-> (listof exact-integer?) (listof exact-integer?)) (define seen (make-vector (+ 1 (length nums)) #f)) (for ([value (in-list nums)]) (vector-set! seen value #t)) (for/list ([value (in-range 1 (+ 1 (length nums)))] #:unless (vector-ref seen value)) value))
