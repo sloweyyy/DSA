@@ -1,0 +1,1 @@
+compute_area(Ax1, Ay1, Ax2, Ay2, Bx1, By1, Bx2, By2) -> Width = max(0, min(Ax2, Bx2) - max(Ax1, Bx1)), Height = max(0, min(Ay2, By2) - max(Ay1, By1)), (Ax2 - Ax1) * (Ay2 - Ay1) + (Bx2 - Bx1) * (By2 - By1) - Width * Height.
