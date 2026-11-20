@@ -1,29 +1,5 @@
 [
   {
-    "problem_number": "00199",
-    "title": "Binary Tree Right Side View",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/binary-tree-right-side-view",
-    "filepath": "LeetCode Daily/00199. Binary Tree Right Side View.dart",
-    "commit_hash": "49bc1f7"
-  },
-  {
-    "problem_number": "00200",
-    "title": "Number of Islands",
-    "language": "C#",
-    "leetcode_url": "https://leetcode.com/problems/number-of-islands",
-    "filepath": "LeetCode Daily/00200. Number of Islands.cs",
-    "commit_hash": "49bc1f7"
-  },
-  {
-    "problem_number": "00202",
-    "title": "Happy Number",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/happy-number",
-    "filepath": "LeetCode Daily/00202. Happy Number.ex",
-    "commit_hash": "49bc1f7"
-  },
-  {
     "problem_number": "00203",
     "title": "Remove Linked List Elements",
     "language": "Dart",
@@ -78,5 +54,29 @@
     "leetcode_url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
     "filepath": "LeetCode Daily/00211. Design Add and Search Words Data Structure.ex",
     "commit_hash": "f23265a"
+  },
+  {
+    "problem_number": "00212",
+    "title": "Word Search II",
+    "language": "Ruby",
+    "leetcode_url": "https://leetcode.com/problems/word-search-ii",
+    "filepath": "LeetCode Daily/00212. Word Search II.rb",
+    "commit_hash": "c948140"
+  },
+  {
+    "problem_number": "00213",
+    "title": "House Robber II",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/house-robber-ii",
+    "filepath": "LeetCode Daily/00213. House Robber II.swift",
+    "commit_hash": "c948140"
+  },
+  {
+    "problem_number": "00216",
+    "title": "Combination Sum III",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum-iii",
+    "filepath": "LeetCode Daily/00216. Combination Sum III.scala",
+    "commit_hash": "c948140"
   }
 ]
