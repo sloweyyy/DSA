@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00371",
-    "title": "Sum of Two Integers",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/sum-of-two-integers",
-    "filepath": "LeetCode Daily/00371. Sum of Two Integers.kt",
-    "commit_hash": "5532771"
-  },
-  {
-    "problem_number": "00372",
-    "title": "Super Pow",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/super-pow",
-    "filepath": "LeetCode Daily/00372. Super Pow.py",
-    "commit_hash": "5532771"
-  },
-  {
-    "problem_number": "00373",
-    "title": "Find K Pairs with Smallest Sums",
-    "language": "C",
-    "leetcode_url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
-    "filepath": "LeetCode Daily/00373. Find K Pairs with Smallest Sums.c",
-    "commit_hash": "5532771"
-  },
-  {
-    "problem_number": "00374",
-    "title": "Guess Number Higher or Lower",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/guess-number-higher-or-lower",
-    "filepath": "LeetCode Daily/00374. Guess Number Higher or Lower.php",
-    "commit_hash": "5532771"
-  },
-  {
     "problem_number": "00375",
     "title": "Guess Number Higher or Lower II",
     "language": "Erlang",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/ransom-note",
     "filepath": "LeetCode Daily/00383. Ransom Note.py",
     "commit_hash": "f0c48f0"
+  },
+  {
+    "problem_number": "00384",
+    "title": "Shuffle an Array",
+    "language": "Elixir",
+    "leetcode_url": "https://leetcode.com/problems/shuffle-an-array",
+    "filepath": "LeetCode Daily/00384. Shuffle an Array.ex",
+    "commit_hash": "d9467aa"
+  },
+  {
+    "problem_number": "00385",
+    "title": "Mini Parser",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/mini-parser",
+    "filepath": "LeetCode Daily/00385. Mini Parser.php",
+    "commit_hash": "d9467aa"
+  },
+  {
+    "problem_number": "00388",
+    "title": "Longest Absolute File Path",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/longest-absolute-file-path",
+    "filepath": "LeetCode Daily/00388. Longest Absolute File Path.py",
+    "commit_hash": "d9467aa"
+  },
+  {
+    "problem_number": "00390",
+    "title": "Elimination Game",
+    "language": "Dart",
+    "leetcode_url": "https://leetcode.com/problems/elimination-game",
+    "filepath": "LeetCode Daily/00390. Elimination Game.dart",
+    "commit_hash": "d9467aa"
   }
 ]
