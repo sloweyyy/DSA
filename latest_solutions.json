@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00216",
-    "title": "Combination Sum III",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/combination-sum-iii",
-    "filepath": "LeetCode Daily/00216. Combination Sum III.scala",
-    "commit_hash": "c948140"
-  },
-  {
-    "problem_number": "00217",
-    "title": "Contains Duplicate",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/contains-duplicate",
-    "filepath": "LeetCode Daily/00217. Contains Duplicate.scala",
-    "commit_hash": "df55352"
-  },
-  {
-    "problem_number": "00218",
-    "title": "The Skyline Problem",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/the-skyline-problem",
-    "filepath": "LeetCode Daily/00218. The Skyline Problem.java",
-    "commit_hash": "df55352"
-  },
-  {
-    "problem_number": "00219",
-    "title": "Contains Duplicate II",
-    "language": "C",
-    "leetcode_url": "https://leetcode.com/problems/contains-duplicate-ii",
-    "filepath": "LeetCode Daily/00219. Contains Duplicate II.c",
-    "commit_hash": "df55352"
-  },
-  {
-    "problem_number": "00220",
-    "title": "Contains Duplicate III",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/contains-duplicate-iii",
-    "filepath": "LeetCode Daily/00220. Contains Duplicate III.py",
-    "commit_hash": "df55352"
-  },
-  {
     "problem_number": "00221",
     "title": "Maximal Square",
     "language": "Erlang",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/invert-binary-tree",
     "filepath": "LeetCode Daily/00226. Invert Binary Tree.scala",
     "commit_hash": "219d233"
+  },
+  {
+    "problem_number": "00227",
+    "title": "Basic Calculator II",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/basic-calculator-ii",
+    "filepath": "LeetCode Daily/00227. Basic Calculator II.php",
+    "commit_hash": "a09c0b3"
+  },
+  {
+    "problem_number": "00230",
+    "title": "Kth Smallest Element in a BST",
+    "language": "JavaScript",
+    "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "filepath": "LeetCode Daily/00230. Kth Smallest Element in a BST.js",
+    "commit_hash": "a09c0b3"
+  },
+  {
+    "problem_number": "00233",
+    "title": "Number of Digit One",
+    "language": "JavaScript",
+    "leetcode_url": "https://leetcode.com/problems/number-of-digit-one",
+    "filepath": "LeetCode Daily/00233. Number of Digit One.js",
+    "commit_hash": "a09c0b3"
+  },
+  {
+    "problem_number": "00234",
+    "title": "Palindrome Linked List",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-linked-list",
+    "filepath": "LeetCode Daily/00234. Palindrome Linked List.kt",
+    "commit_hash": "a09c0b3"
+  },
+  {
+    "problem_number": "00235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "filepath": "LeetCode Daily/00235. Lowest Common Ancestor of a Binary Search Tree.c",
+    "commit_hash": "a09c0b3"
   }
 ]
