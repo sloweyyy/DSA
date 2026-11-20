@@ -66,14 +66,6 @@
   {
     "problem_number": "00098",
     "title": "Validate Binary Search Tree",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree",
-    "filepath": "LeetCode Daily/00098. Validate Binary Search Tree.js",
-    "commit_hash": "7642cf8"
-  },
-  {
-    "problem_number": "00098",
-    "title": "Validate Binary Search Tree",
     "language": "Dart",
     "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree",
     "filepath": "LeetCode Daily/00098. Validate Binary Search Tree.dart",

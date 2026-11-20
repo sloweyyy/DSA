@@ -46,7 +46,7 @@ def get_git_diff_files():
 def extract_leetcode_info(filename):
     """Extract LeetCode problem information from filename."""
     # Pattern: number. title.extension
-    pattern = r'^(\d+)\.\s*(.+)\.(py|js|ts|java|cpp|cs|go|php|dart|hack)$'
+    pattern = r'^(\d+)\.\s*(.+)\.(py|js|ts|java|cpp|cs|c|go|php|dart|hack|kt|swift|rs|rb|scala|ex|erl|rkt|sql|sh)$'
     match = re.match(pattern, filename)
     
     if match:
@@ -58,7 +58,10 @@ def extract_leetcode_info(filename):
         language_map = {
             'py': 'Python', 'js': 'JavaScript', 'ts': 'TypeScript',
             'java': 'Java', 'cpp': 'C++', 'cs': 'C#', 'go': 'Go',
-            'php': 'PHP', 'dart': 'Dart', 'hack': 'Hack'
+            'php': 'PHP', 'dart': 'Dart', 'hack': 'Hack',
+            'c': 'C', 'kt': 'Kotlin', 'swift': 'Swift', 'rs': 'Rust',
+            'rb': 'Ruby', 'scala': 'Scala', 'ex': 'Elixir',
+            'erl': 'Erlang', 'rkt': 'Racket', 'sql': 'SQL', 'sh': 'Bash'
         }
         
         language = language_map.get(language_ext, language_ext.upper())
@@ -172,7 +175,18 @@ def get_language_stats():
         '.cs': 'C#',
         '.php': 'PHP',
         '.dart': 'Dart',
-        '.hack': 'Hack'
+        '.hack': 'Hack',
+        '.c': 'C',
+        '.kt': 'Kotlin',
+        '.swift': 'Swift',
+        '.rs': 'Rust',
+        '.rb': 'Ruby',
+        '.scala': 'Scala',
+        '.ex': 'Elixir',
+        '.erl': 'Erlang',
+        '.rkt': 'Racket',
+        '.sql': 'SQL',
+        '.sh': 'Bash'
     }
     
     language_counts = {}
