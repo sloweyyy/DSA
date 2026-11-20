@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00384",
-    "title": "Shuffle an Array",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/shuffle-an-array",
-    "filepath": "LeetCode Daily/00384. Shuffle an Array.ex",
-    "commit_hash": "d9467aa"
-  },
-  {
-    "problem_number": "00385",
-    "title": "Mini Parser",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/mini-parser",
-    "filepath": "LeetCode Daily/00385. Mini Parser.php",
-    "commit_hash": "d9467aa"
-  },
-  {
-    "problem_number": "00388",
-    "title": "Longest Absolute File Path",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/longest-absolute-file-path",
-    "filepath": "LeetCode Daily/00388. Longest Absolute File Path.py",
-    "commit_hash": "d9467aa"
-  },
-  {
-    "problem_number": "00390",
-    "title": "Elimination Game",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/elimination-game",
-    "filepath": "LeetCode Daily/00390. Elimination Game.dart",
-    "commit_hash": "d9467aa"
-  },
-  {
     "problem_number": "00391",
     "title": "Perfect Rectangle",
     "language": "C#",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/integer-replacement",
     "filepath": "LeetCode Daily/00397. Integer Replacement.erl",
     "commit_hash": "bb8384d"
+  },
+  {
+    "problem_number": "00398",
+    "title": "Random Pick Index",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/random-pick-index",
+    "filepath": "LeetCode Daily/00398. Random Pick Index.scala",
+    "commit_hash": "6fe3f3d"
+  },
+  {
+    "problem_number": "00400",
+    "title": "Nth Digit",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/nth-digit",
+    "filepath": "LeetCode Daily/00400. Nth Digit.php",
+    "commit_hash": "6fe3f3d"
+  },
+  {
+    "problem_number": "00401",
+    "title": "Binary Watch",
+    "language": "JavaScript",
+    "leetcode_url": "https://leetcode.com/problems/binary-watch",
+    "filepath": "LeetCode Daily/00401. Binary Watch.js",
+    "commit_hash": "6fe3f3d"
+  },
+  {
+    "problem_number": "00402",
+    "title": "Remove K Digits",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/remove-k-digits",
+    "filepath": "LeetCode Daily/00402. Remove K Digits.swift",
+    "commit_hash": "6fe3f3d"
   }
 ]
