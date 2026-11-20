@@ -1,0 +1,1 @@
+(define (has-path-sum root targetSum) (cond [(not root) #f] [(and (not (tree-node-left root)) (not (tree-node-right root))) (= (tree-node-val root) targetSum)] [else (or (has-path-sum (tree-node-left root) (- targetSum (tree-node-val root))) (has-path-sum (tree-node-right root) (- targetSum (tree-node-val root))))]))
