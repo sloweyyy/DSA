@@ -12,31 +12,31 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification.js) | JavaScript | [3a28dcc](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02567.%20Minimum%20Score%20by%20Changing%20Two%20Elements.php) | PHP | [7fd1283](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02914.%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful.go) | Go | [ec8e478](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/01292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.cs) | C# | [5a0883e](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/001984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.ts) | TypeScript | [5a0883e](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Separate Squares II](https://leetcode.com/problems/separate-squares-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03454.%20Separate%20Squares%20II.cs) | C# | [8070a62](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00961.%20N-Repeated%20Element%20in%20Size%202N%20Array.java) | Java | [1e5cbdb](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Plus One](https://leetcode.com/problems/plus-one) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/0066.%20Plus%20One.java) | Java | [1e5cbdb](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/01493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.go) | Go | [0d2161a](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
-| [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03197.%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20II.go) | Go | [a7a5e59](https://github.com/sloweyyy/DSA/commit/3a28dccf0acf6a5ab1b7c7b9e9caee075f5218b8) |
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00098.%20Validate%20Binary%20Search%20Tree.js) | JavaScript | [7642cf8](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Interleaving String](https://leetcode.com/problems/interleaving-string) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00097.%20Interleaving%20String.js) | JavaScript | [7642cf8](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00096.%20Unique%20Binary%20Search%20Trees.cpp) | C++ | [7642cf8](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00093.%20Restore%20IP%20Addresses.go) | Go | [7642cf8](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Subsets II](https://leetcode.com/problems/subsets-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00090.%20Subsets%20II.java) | Java | [7642cf8](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/03041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification.js) | JavaScript | [3a28dcc](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02567.%20Minimum%20Score%20by%20Changing%20Two%20Elements.php) | PHP | [7fd1283](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/02914.%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful.go) | Go | [ec8e478](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/01292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.cs) | C# | [5a0883e](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
+| [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/001984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores.ts) | TypeScript | [5a0883e](https://github.com/sloweyyy/DSA/commit/7642cf8deeae4634757aa19c38cd2d7c03d2c18d) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 22.91%
-- JavaScript: 21.33%
-- TypeScript: 17.06%
-- C#: 12.95%
-- C++: 12.80%
-- Go: 6.16%
-- Python: 5.69%
-- Dart: 0.32%
-- PHP: 0.32%
+- Java: 22.88%
+- JavaScript: 21.47%
+- TypeScript: 16.93%
+- C#: 12.85%
+- C++: 12.85%
+- Go: 6.27%
+- Python: 5.64%
+- Dart: 0.31%
+- PHP: 0.31%
 
 
 ## 📁 Contents
@@ -77,4 +77,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 05:04:44 UTC*
+*Last updated: 2026-11-20 08:13:26 UTC*
