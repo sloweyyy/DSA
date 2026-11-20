@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00155",
-    "title": "Min Stack",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/min-stack",
-    "filepath": "LeetCode Daily/00155. Min Stack.ts",
-    "commit_hash": "88a6dfd"
-  },
-  {
-    "problem_number": "00160",
-    "title": "Intersection of Two Linked Lists",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/intersection-of-two-linked-lists",
-    "filepath": "LeetCode Daily/00160. Intersection of Two Linked Lists.java",
-    "commit_hash": "88a6dfd"
-  },
-  {
-    "problem_number": "00162",
-    "title": "Find Peak Element",
-    "language": "C++",
-    "leetcode_url": "https://leetcode.com/problems/find-peak-element",
-    "filepath": "LeetCode Daily/00162. Find Peak Element.cpp",
-    "commit_hash": "88a6dfd"
-  },
-  {
-    "problem_number": "00164",
-    "title": "Maximum Gap",
-    "language": "C++",
-    "leetcode_url": "https://leetcode.com/problems/maximum-gap",
-    "filepath": "LeetCode Daily/00164. Maximum Gap.cpp",
-    "commit_hash": "88a6dfd"
-  },
-  {
-    "problem_number": "00165",
-    "title": "Compare Version Numbers",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/compare-version-numbers",
-    "filepath": "LeetCode Daily/00165. Compare Version Numbers.scala",
-    "commit_hash": "88a6dfd"
-  },
-  {
     "problem_number": "00166",
     "title": "Fraction to Recurring Decimal",
     "language": "Python",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/binary-search-tree-iterator",
     "filepath": "LeetCode Daily/00173. Binary Search Tree Iterator.go",
     "commit_hash": "01e551d"
+  },
+  {
+    "problem_number": "00174",
+    "title": "Dungeon Game",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/dungeon-game",
+    "filepath": "LeetCode Daily/00174. Dungeon Game.php",
+    "commit_hash": "11ea31f"
+  },
+  {
+    "problem_number": "00187",
+    "title": "Repeated DNA Sequences",
+    "language": "Racket",
+    "leetcode_url": "https://leetcode.com/problems/repeated-dna-sequences",
+    "filepath": "LeetCode Daily/00187. Repeated DNA Sequences.rkt",
+    "commit_hash": "11ea31f"
+  },
+  {
+    "problem_number": "00189",
+    "title": "Rotate Array",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/rotate-array",
+    "filepath": "LeetCode Daily/00189. Rotate Array.cpp",
+    "commit_hash": "11ea31f"
+  },
+  {
+    "problem_number": "00190",
+    "title": "Reverse Bits",
+    "language": "Rust",
+    "leetcode_url": "https://leetcode.com/problems/reverse-bits",
+    "filepath": "LeetCode Daily/00190. Reverse Bits.rs",
+    "commit_hash": "11ea31f"
+  },
+  {
+    "problem_number": "00192",
+    "title": "Word Frequency",
+    "language": "Bash",
+    "leetcode_url": "https://leetcode.com/problems/word-frequency",
+    "filepath": "LeetCode Daily/00192. Word Frequency.sh",
+    "commit_hash": "11ea31f"
   }
 ]
