@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00208",
-    "title": "Implement Trie (Prefix Tree)",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/implement-trie-prefix-tree",
-    "filepath": "LeetCode Daily/00208. Implement Trie (Prefix Tree).go",
-    "commit_hash": "f23265a"
-  },
-  {
-    "problem_number": "00210",
-    "title": "Course Schedule II",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/course-schedule-ii",
-    "filepath": "LeetCode Daily/00210. Course Schedule II.java",
-    "commit_hash": "f23265a"
-  },
-  {
-    "problem_number": "00211",
-    "title": "Design Add and Search Words Data Structure",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
-    "filepath": "LeetCode Daily/00211. Design Add and Search Words Data Structure.ex",
-    "commit_hash": "f23265a"
-  },
-  {
-    "problem_number": "00212",
-    "title": "Word Search II",
-    "language": "Ruby",
-    "leetcode_url": "https://leetcode.com/problems/word-search-ii",
-    "filepath": "LeetCode Daily/00212. Word Search II.rb",
-    "commit_hash": "c948140"
-  },
-  {
-    "problem_number": "00213",
-    "title": "House Robber II",
-    "language": "Swift",
-    "leetcode_url": "https://leetcode.com/problems/house-robber-ii",
-    "filepath": "LeetCode Daily/00213. House Robber II.swift",
-    "commit_hash": "c948140"
-  },
-  {
     "problem_number": "00216",
     "title": "Combination Sum III",
     "language": "Scala",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/contains-duplicate-iii",
     "filepath": "LeetCode Daily/00220. Contains Duplicate III.py",
     "commit_hash": "df55352"
+  },
+  {
+    "problem_number": "00221",
+    "title": "Maximal Square",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/maximal-square",
+    "filepath": "LeetCode Daily/00221. Maximal Square.erl",
+    "commit_hash": "219d233"
+  },
+  {
+    "problem_number": "00222",
+    "title": "Count Complete Tree Nodes",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/count-complete-tree-nodes",
+    "filepath": "LeetCode Daily/00222. Count Complete Tree Nodes.ts",
+    "commit_hash": "219d233"
+  },
+  {
+    "problem_number": "00223",
+    "title": "Rectangle Area",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/rectangle-area",
+    "filepath": "LeetCode Daily/00223. Rectangle Area.erl",
+    "commit_hash": "219d233"
+  },
+  {
+    "problem_number": "00224",
+    "title": "Basic Calculator",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/basic-calculator",
+    "filepath": "LeetCode Daily/00224. Basic Calculator.php",
+    "commit_hash": "219d233"
+  },
+  {
+    "problem_number": "00226",
+    "title": "Invert Binary Tree",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/invert-binary-tree",
+    "filepath": "LeetCode Daily/00226. Invert Binary Tree.scala",
+    "commit_hash": "219d233"
   }
 ]
