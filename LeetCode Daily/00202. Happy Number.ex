@@ -1,0 +1,1 @@
+defmodule Solution do def is_happy(n), do: cycle(n, step(n)); defp cycle(_, 1), do: true; defp cycle(slow, fast) when slow == fast, do: false; defp cycle(slow, fast), do: cycle(step(slow), step(step(fast))); defp step(n), do: digits(n, 0); defp digits(0, total), do: total; defp digits(n, total) do digit = rem(n, 10); digits(div(n, 10), total + digit * digit) end end
