@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00394",
-    "title": "Decode String",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/decode-string",
-    "filepath": "LeetCode Daily/00394. Decode String.py",
-    "commit_hash": "a69f5d8"
-  },
-  {
-    "problem_number": "00395",
-    "title": "Longest Substring with At Least K Repeating Characters",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
-    "filepath": "LeetCode Daily/00395. Longest Substring with At Least K Repeating Characters.erl",
-    "commit_hash": "bb8384d"
-  },
-  {
-    "problem_number": "00396",
-    "title": "Rotate Function",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/rotate-function",
-    "filepath": "LeetCode Daily/00396. Rotate Function.kt",
-    "commit_hash": "bb8384d"
-  },
-  {
-    "problem_number": "00397",
-    "title": "Integer Replacement",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/integer-replacement",
-    "filepath": "LeetCode Daily/00397. Integer Replacement.erl",
-    "commit_hash": "bb8384d"
-  },
-  {
     "problem_number": "00398",
     "title": "Random Pick Index",
     "language": "Scala",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/sum-of-left-leaves",
     "filepath": "LeetCode Daily/00404. Sum of Left Leaves.erl",
     "commit_hash": "80bdc15"
+  },
+  {
+    "problem_number": "00405",
+    "title": "Convert a Number to Hexadecimal",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
+    "filepath": "LeetCode Daily/00405. Convert a Number to Hexadecimal.kt",
+    "commit_hash": "d21641c"
+  },
+  {
+    "problem_number": "00406",
+    "title": "Queue Reconstruction by Height",
+    "language": "Dart",
+    "leetcode_url": "https://leetcode.com/problems/queue-reconstruction-by-height",
+    "filepath": "LeetCode Daily/00406. Queue Reconstruction by Height.dart",
+    "commit_hash": "d21641c"
+  },
+  {
+    "problem_number": "00409",
+    "title": "Longest Palindrome",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/longest-palindrome",
+    "filepath": "LeetCode Daily/00409. Longest Palindrome.swift",
+    "commit_hash": "d21641c"
+  },
+  {
+    "problem_number": "00410",
+    "title": "Split Array Largest Sum",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/split-array-largest-sum",
+    "filepath": "LeetCode Daily/00410. Split Array Largest Sum.swift",
+    "commit_hash": "d21641c"
   }
 ]
