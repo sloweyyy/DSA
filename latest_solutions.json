@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00354",
-    "title": "Russian Doll Envelopes",
-    "language": "Ruby",
-    "leetcode_url": "https://leetcode.com/problems/russian-doll-envelopes",
-    "filepath": "LeetCode Daily/00354. Russian Doll Envelopes.rb",
-    "commit_hash": "8818fbf"
-  },
-  {
-    "problem_number": "00357",
-    "title": "Count Numbers with Unique Digits",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/count-numbers-with-unique-digits",
-    "filepath": "LeetCode Daily/00357. Count Numbers with Unique Digits.erl",
-    "commit_hash": "8818fbf"
-  },
-  {
-    "problem_number": "00363",
-    "title": "Max Sum of Rectangle No Larger Than K",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
-    "filepath": "LeetCode Daily/00363. Max Sum of Rectangle No Larger Than K.go",
-    "commit_hash": "8818fbf"
-  },
-  {
-    "problem_number": "00365",
-    "title": "Water and Jug Problem",
-    "language": "C",
-    "leetcode_url": "https://leetcode.com/problems/water-and-jug-problem",
-    "filepath": "LeetCode Daily/00365. Water and Jug Problem.c",
-    "commit_hash": "8818fbf"
-  },
-  {
-    "problem_number": "00367",
-    "title": "Valid Perfect Square",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/valid-perfect-square",
-    "filepath": "LeetCode Daily/00367. Valid Perfect Square.ts",
-    "commit_hash": "8818fbf"
-  },
-  {
     "problem_number": "00371",
     "title": "Sum of Two Integers",
     "language": "Kotlin",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/guess-number-higher-or-lower-ii",
     "filepath": "LeetCode Daily/00375. Guess Number Higher or Lower II.erl",
     "commit_hash": "5532771"
+  },
+  {
+    "problem_number": "00376",
+    "title": "Wiggle Subsequence",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/wiggle-subsequence",
+    "filepath": "LeetCode Daily/00376. Wiggle Subsequence.erl",
+    "commit_hash": "f0c48f0"
+  },
+  {
+    "problem_number": "00378",
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "filepath": "LeetCode Daily/00378. Kth Smallest Element in a Sorted Matrix.go",
+    "commit_hash": "f0c48f0"
+  },
+  {
+    "problem_number": "00381",
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "filepath": "LeetCode Daily/00381. Insert Delete GetRandom O(1) - Duplicates allowed.java",
+    "commit_hash": "f0c48f0"
+  },
+  {
+    "problem_number": "00382",
+    "title": "Linked List Random Node",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-random-node",
+    "filepath": "LeetCode Daily/00382. Linked List Random Node.go",
+    "commit_hash": "f0c48f0"
+  },
+  {
+    "problem_number": "00383",
+    "title": "Ransom Note",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/ransom-note",
+    "filepath": "LeetCode Daily/00383. Ransom Note.py",
+    "commit_hash": "f0c48f0"
   }
 ]
