@@ -12,40 +12,40 @@ Here are my most recent LeetCode solutions:
 
 | Problem | Solution | Language | Commit |
 |---------|----------|----------|--------|
-| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00131.%20Palindrome%20Partitioning.dart) | Dart | [974276b](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00130.%20Surrounded%20Regions.scala) | Scala | [974276b](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00129.%20Sum%20Root%20to%20Leaf%20Numbers.ex) | Elixir | [974276b](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00128.%20Longest%20Consecutive%20Sequence.cpp) | C++ | [974276b](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Word Ladder](https://leetcode.com/problems/word-ladder) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00127.%20Word%20Ladder.ts) | TypeScript | [974276b](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00126.%20Word%20Ladder%20II.rs) | Rust | [974276b](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00125.%20Valid%20Palindrome.swift) | Swift | [4c99b66](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.ts) | TypeScript | [4c99b66](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ts) | TypeScript | [4c99b66](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
-| [Triangle](https://leetcode.com/problems/triangle) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00120.%20Triangle.kt) | Kotlin | [4c99b66](https://github.com/sloweyyy/DSA/commit/974276b5238a9c81dcfe556b89067f234f826291) |
+| [Word Break](https://leetcode.com/problems/word-break) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00139.%20Word%20Break.swift) | Swift | [249b68d](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Single Number II](https://leetcode.com/problems/single-number-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00137.%20Single%20Number%20II.swift) | Swift | [249b68d](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Single Number](https://leetcode.com/problems/single-number) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00136.%20Single%20Number.swift) | Swift | [249b68d](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Gas Station](https://leetcode.com/problems/gas-station) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00134.%20Gas%20Station.java) | Java | [249b68d](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Clone Graph](https://leetcode.com/problems/clone-graph) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00133.%20Clone%20Graph.cpp) | C++ | [249b68d](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00132.%20Palindrome%20Partitioning%20II.cpp) | C++ | [249b68d](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00131.%20Palindrome%20Partitioning.dart) | Dart | [974276b](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00130.%20Surrounded%20Regions.scala) | Scala | [974276b](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00129.%20Sum%20Root%20to%20Leaf%20Numbers.ex) | Elixir | [974276b](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [View Solution](https://github.com/sloweyyy/DSA/blob/main/LeetCode%20Daily/00128.%20Longest%20Consecutive%20Sequence.cpp) | C++ | [974276b](https://github.com/sloweyyy/DSA/commit/249b68dbc4bf125e3f8a7377127bc7a048d848fb) |
 
 
 ## 📊 Languages Used
 
 Here's a breakdown of the languages I've been using, along with their contribution percentage:
 
-- Java: 21.99%
-- JavaScript: 20.63%
-- TypeScript: 16.87%
-- C#: 12.65%
-- C++: 12.50%
-- Go: 6.17%
-- Python: 5.57%
-- Dart: 0.75%
+- Java: 21.94%
+- JavaScript: 20.45%
+- TypeScript: 16.72%
+- C++: 12.69%
+- C#: 12.54%
+- Go: 6.12%
+- Python: 5.52%
 - Rust: 0.75%
+- Dart: 0.75%
 - PHP: 0.60%
+- Swift: 0.60%
 - Elixir: 0.45%
-- Swift: 0.15%
-- C: 0.15%
-- Racket: 0.15%
-- Kotlin: 0.15%
-- Ruby: 0.15%
 - Erlang: 0.15%
+- Kotlin: 0.15%
+- C: 0.15%
 - Scala: 0.15%
+- Racket: 0.15%
+- Ruby: 0.15%
 
 
 ## 📁 Contents
@@ -86,4 +86,4 @@ Feel free to reach out via email at truonglevinhphuc2006@gmail.com for any quest
 
 ---
 
-*Last updated: 2026-11-20 08:46:34 UTC*
+*Last updated: 2026-11-20 08:49:27 UTC*

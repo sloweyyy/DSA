@@ -1,53 +1,5 @@
 [
   {
-    "problem_number": "00120",
-    "title": "Triangle",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/triangle",
-    "filepath": "LeetCode Daily/00120. Triangle.kt",
-    "commit_hash": "4c99b66"
-  },
-  {
-    "problem_number": "00121",
-    "title": "Best Time to Buy and Sell Stock",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-    "filepath": "LeetCode Daily/00121. Best Time to Buy and Sell Stock.ts",
-    "commit_hash": "4c99b66"
-  },
-  {
-    "problem_number": "00122",
-    "title": "Best Time to Buy and Sell Stock II",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
-    "filepath": "LeetCode Daily/00122. Best Time to Buy and Sell Stock II.ts",
-    "commit_hash": "4c99b66"
-  },
-  {
-    "problem_number": "00125",
-    "title": "Valid Palindrome",
-    "language": "Swift",
-    "leetcode_url": "https://leetcode.com/problems/valid-palindrome",
-    "filepath": "LeetCode Daily/00125. Valid Palindrome.swift",
-    "commit_hash": "4c99b66"
-  },
-  {
-    "problem_number": "00126",
-    "title": "Word Ladder II",
-    "language": "Rust",
-    "leetcode_url": "https://leetcode.com/problems/word-ladder-ii",
-    "filepath": "LeetCode Daily/00126. Word Ladder II.rs",
-    "commit_hash": "974276b"
-  },
-  {
-    "problem_number": "00127",
-    "title": "Word Ladder",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/word-ladder",
-    "filepath": "LeetCode Daily/00127. Word Ladder.ts",
-    "commit_hash": "974276b"
-  },
-  {
     "problem_number": "00128",
     "title": "Longest Consecutive Sequence",
     "language": "C++",
@@ -78,5 +30,53 @@
     "leetcode_url": "https://leetcode.com/problems/palindrome-partitioning",
     "filepath": "LeetCode Daily/00131. Palindrome Partitioning.dart",
     "commit_hash": "974276b"
+  },
+  {
+    "problem_number": "00132",
+    "title": "Palindrome Partitioning II",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-partitioning-ii",
+    "filepath": "LeetCode Daily/00132. Palindrome Partitioning II.cpp",
+    "commit_hash": "249b68d"
+  },
+  {
+    "problem_number": "00133",
+    "title": "Clone Graph",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/clone-graph",
+    "filepath": "LeetCode Daily/00133. Clone Graph.cpp",
+    "commit_hash": "249b68d"
+  },
+  {
+    "problem_number": "00134",
+    "title": "Gas Station",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/gas-station",
+    "filepath": "LeetCode Daily/00134. Gas Station.java",
+    "commit_hash": "249b68d"
+  },
+  {
+    "problem_number": "00136",
+    "title": "Single Number",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/single-number",
+    "filepath": "LeetCode Daily/00136. Single Number.swift",
+    "commit_hash": "249b68d"
+  },
+  {
+    "problem_number": "00137",
+    "title": "Single Number II",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/single-number-ii",
+    "filepath": "LeetCode Daily/00137. Single Number II.swift",
+    "commit_hash": "249b68d"
+  },
+  {
+    "problem_number": "00139",
+    "title": "Word Break",
+    "language": "Swift",
+    "leetcode_url": "https://leetcode.com/problems/word-break",
+    "filepath": "LeetCode Daily/00139. Word Break.swift",
+    "commit_hash": "249b68d"
   }
 ]
