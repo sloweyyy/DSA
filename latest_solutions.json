@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00137",
-    "title": "Single Number II",
-    "language": "Swift",
-    "leetcode_url": "https://leetcode.com/problems/single-number-ii",
-    "filepath": "LeetCode Daily/00137. Single Number II.swift",
-    "commit_hash": "249b68d"
-  },
-  {
-    "problem_number": "00139",
-    "title": "Word Break",
-    "language": "Swift",
-    "leetcode_url": "https://leetcode.com/problems/word-break",
-    "filepath": "LeetCode Daily/00139. Word Break.swift",
-    "commit_hash": "249b68d"
-  },
-  {
-    "problem_number": "00140",
-    "title": "Word Break II",
-    "language": "TypeScript",
-    "leetcode_url": "https://leetcode.com/problems/word-break-ii",
-    "filepath": "LeetCode Daily/00140. Word Break II.ts",
-    "commit_hash": "f426dd3"
-  },
-  {
-    "problem_number": "00142",
-    "title": "Linked List Cycle II",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle-ii",
-    "filepath": "LeetCode Daily/00142. Linked List Cycle II.java",
-    "commit_hash": "f426dd3"
-  },
-  {
-    "problem_number": "00144",
-    "title": "Binary Tree Preorder Traversal",
-    "language": "Java",
-    "leetcode_url": "https://leetcode.com/problems/binary-tree-preorder-traversal",
-    "filepath": "LeetCode Daily/00144. Binary Tree Preorder Traversal.java",
-    "commit_hash": "f426dd3"
-  },
-  {
     "problem_number": "00146",
     "title": "LRU Cache",
     "language": "C#",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/reverse-words-in-a-string",
     "filepath": "LeetCode Daily/00151. Reverse Words in a String.kt",
     "commit_hash": "855d85f"
+  },
+  {
+    "problem_number": "00155",
+    "title": "Min Stack",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/min-stack",
+    "filepath": "LeetCode Daily/00155. Min Stack.ts",
+    "commit_hash": "88a6dfd"
+  },
+  {
+    "problem_number": "00160",
+    "title": "Intersection of Two Linked Lists",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "filepath": "LeetCode Daily/00160. Intersection of Two Linked Lists.java",
+    "commit_hash": "88a6dfd"
+  },
+  {
+    "problem_number": "00162",
+    "title": "Find Peak Element",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/find-peak-element",
+    "filepath": "LeetCode Daily/00162. Find Peak Element.cpp",
+    "commit_hash": "88a6dfd"
+  },
+  {
+    "problem_number": "00164",
+    "title": "Maximum Gap",
+    "language": "C++",
+    "leetcode_url": "https://leetcode.com/problems/maximum-gap",
+    "filepath": "LeetCode Daily/00164. Maximum Gap.cpp",
+    "commit_hash": "88a6dfd"
+  },
+  {
+    "problem_number": "00165",
+    "title": "Compare Version Numbers",
+    "language": "Scala",
+    "leetcode_url": "https://leetcode.com/problems/compare-version-numbers",
+    "filepath": "LeetCode Daily/00165. Compare Version Numbers.scala",
+    "commit_hash": "88a6dfd"
   }
 ]
