@@ -1,0 +1,1 @@
+defmodule Solution do def rob(root) do {skip, take} = visit(root); max(skip, take) end; defp visit(nil), do: {0, 0}; defp visit(node) do {left_skip, left_take} = visit(node.left); {right_skip, right_take} = visit(node.right); {max(left_skip, left_take) + max(right_skip, right_take), node.val + left_skip + right_skip} end end
