@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "00128",
-    "title": "Longest Consecutive Sequence",
-    "language": "C++",
-    "leetcode_url": "https://leetcode.com/problems/longest-consecutive-sequence",
-    "filepath": "LeetCode Daily/00128. Longest Consecutive Sequence.cpp",
-    "commit_hash": "974276b"
-  },
-  {
-    "problem_number": "00129",
-    "title": "Sum Root to Leaf Numbers",
-    "language": "Elixir",
-    "leetcode_url": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
-    "filepath": "LeetCode Daily/00129. Sum Root to Leaf Numbers.ex",
-    "commit_hash": "974276b"
-  },
-  {
-    "problem_number": "00130",
-    "title": "Surrounded Regions",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/surrounded-regions",
-    "filepath": "LeetCode Daily/00130. Surrounded Regions.scala",
-    "commit_hash": "974276b"
-  },
-  {
-    "problem_number": "00131",
-    "title": "Palindrome Partitioning",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/palindrome-partitioning",
-    "filepath": "LeetCode Daily/00131. Palindrome Partitioning.dart",
-    "commit_hash": "974276b"
-  },
-  {
     "problem_number": "00132",
     "title": "Palindrome Partitioning II",
     "language": "C++",
@@ -78,5 +46,37 @@
     "leetcode_url": "https://leetcode.com/problems/word-break",
     "filepath": "LeetCode Daily/00139. Word Break.swift",
     "commit_hash": "249b68d"
+  },
+  {
+    "problem_number": "00140",
+    "title": "Word Break II",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/word-break-ii",
+    "filepath": "LeetCode Daily/00140. Word Break II.ts",
+    "commit_hash": "f426dd3"
+  },
+  {
+    "problem_number": "00142",
+    "title": "Linked List Cycle II",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "filepath": "LeetCode Daily/00142. Linked List Cycle II.java",
+    "commit_hash": "f426dd3"
+  },
+  {
+    "problem_number": "00144",
+    "title": "Binary Tree Preorder Traversal",
+    "language": "Java",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-preorder-traversal",
+    "filepath": "LeetCode Daily/00144. Binary Tree Preorder Traversal.java",
+    "commit_hash": "f426dd3"
+  },
+  {
+    "problem_number": "00146",
+    "title": "LRU Cache",
+    "language": "C#",
+    "leetcode_url": "https://leetcode.com/problems/lru-cache",
+    "filepath": "LeetCode Daily/00146. LRU Cache.cs",
+    "commit_hash": "f426dd3"
   }
 ]
