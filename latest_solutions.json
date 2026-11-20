@@ -1,21 +1,5 @@
 [
   {
-    "problem_number": "00391",
-    "title": "Perfect Rectangle",
-    "language": "C#",
-    "leetcode_url": "https://leetcode.com/problems/perfect-rectangle",
-    "filepath": "LeetCode Daily/00391. Perfect Rectangle.cs",
-    "commit_hash": "a69f5d8"
-  },
-  {
-    "problem_number": "00393",
-    "title": "UTF-8 Validation",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/utf-8-validation",
-    "filepath": "LeetCode Daily/00393. UTF-8 Validation.dart",
-    "commit_hash": "a69f5d8"
-  },
-  {
     "problem_number": "00394",
     "title": "Decode String",
     "language": "Python",
@@ -78,5 +62,21 @@
     "leetcode_url": "https://leetcode.com/problems/remove-k-digits",
     "filepath": "LeetCode Daily/00402. Remove K Digits.swift",
     "commit_hash": "6fe3f3d"
+  },
+  {
+    "problem_number": "00403",
+    "title": "Frog Jump",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/frog-jump",
+    "filepath": "LeetCode Daily/00403. Frog Jump.php",
+    "commit_hash": "80bdc15"
+  },
+  {
+    "problem_number": "00404",
+    "title": "Sum of Left Leaves",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/sum-of-left-leaves",
+    "filepath": "LeetCode Daily/00404. Sum of Left Leaves.erl",
+    "commit_hash": "80bdc15"
   }
 ]
