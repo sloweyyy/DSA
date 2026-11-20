@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00329",
-    "title": "Longest Increasing Path in a Matrix",
-    "language": "Erlang",
-    "leetcode_url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
-    "filepath": "LeetCode Daily/00329. Longest Increasing Path in a Matrix.erl",
-    "commit_hash": "7108b44"
-  },
-  {
-    "problem_number": "00330",
-    "title": "Patching Array",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/patching-array",
-    "filepath": "LeetCode Daily/00330. Patching Array.scala",
-    "commit_hash": "7108b44"
-  },
-  {
-    "problem_number": "00331",
-    "title": "Verify Preorder Serialization of a Binary Tree",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree",
-    "filepath": "LeetCode Daily/00331. Verify Preorder Serialization of a Binary Tree.py",
-    "commit_hash": "7108b44"
-  },
-  {
-    "problem_number": "00335",
-    "title": "Self Crossing",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/self-crossing",
-    "filepath": "LeetCode Daily/00335. Self Crossing.scala",
-    "commit_hash": "7108b44"
-  },
-  {
-    "problem_number": "00336",
-    "title": "Palindrome Pairs",
-    "language": "C++",
-    "leetcode_url": "https://leetcode.com/problems/palindrome-pairs",
-    "filepath": "LeetCode Daily/00336. Palindrome Pairs.cpp",
-    "commit_hash": "7108b44"
-  },
-  {
     "problem_number": "00337",
     "title": "House Robber III",
     "language": "Elixir",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
     "filepath": "LeetCode Daily/00352. Data Stream as Disjoint Intervals.rb",
     "commit_hash": "1b11054"
+  },
+  {
+    "problem_number": "00354",
+    "title": "Russian Doll Envelopes",
+    "language": "Ruby",
+    "leetcode_url": "https://leetcode.com/problems/russian-doll-envelopes",
+    "filepath": "LeetCode Daily/00354. Russian Doll Envelopes.rb",
+    "commit_hash": "8818fbf"
+  },
+  {
+    "problem_number": "00357",
+    "title": "Count Numbers with Unique Digits",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/count-numbers-with-unique-digits",
+    "filepath": "LeetCode Daily/00357. Count Numbers with Unique Digits.erl",
+    "commit_hash": "8818fbf"
+  },
+  {
+    "problem_number": "00363",
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
+    "filepath": "LeetCode Daily/00363. Max Sum of Rectangle No Larger Than K.go",
+    "commit_hash": "8818fbf"
+  },
+  {
+    "problem_number": "00365",
+    "title": "Water and Jug Problem",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/water-and-jug-problem",
+    "filepath": "LeetCode Daily/00365. Water and Jug Problem.c",
+    "commit_hash": "8818fbf"
+  },
+  {
+    "problem_number": "00367",
+    "title": "Valid Perfect Square",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/valid-perfect-square",
+    "filepath": "LeetCode Daily/00367. Valid Perfect Square.ts",
+    "commit_hash": "8818fbf"
   }
 ]
