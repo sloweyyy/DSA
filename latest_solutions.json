@@ -1,45 +1,5 @@
 [
   {
-    "problem_number": "00398",
-    "title": "Random Pick Index",
-    "language": "Scala",
-    "leetcode_url": "https://leetcode.com/problems/random-pick-index",
-    "filepath": "LeetCode Daily/00398. Random Pick Index.scala",
-    "commit_hash": "6fe3f3d"
-  },
-  {
-    "problem_number": "00400",
-    "title": "Nth Digit",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/nth-digit",
-    "filepath": "LeetCode Daily/00400. Nth Digit.php",
-    "commit_hash": "6fe3f3d"
-  },
-  {
-    "problem_number": "00401",
-    "title": "Binary Watch",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/binary-watch",
-    "filepath": "LeetCode Daily/00401. Binary Watch.js",
-    "commit_hash": "6fe3f3d"
-  },
-  {
-    "problem_number": "00402",
-    "title": "Remove K Digits",
-    "language": "Swift",
-    "leetcode_url": "https://leetcode.com/problems/remove-k-digits",
-    "filepath": "LeetCode Daily/00402. Remove K Digits.swift",
-    "commit_hash": "6fe3f3d"
-  },
-  {
-    "problem_number": "00403",
-    "title": "Frog Jump",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/frog-jump",
-    "filepath": "LeetCode Daily/00403. Frog Jump.php",
-    "commit_hash": "80bdc15"
-  },
-  {
     "problem_number": "00404",
     "title": "Sum of Left Leaves",
     "language": "Erlang",
@@ -78,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/split-array-largest-sum",
     "filepath": "LeetCode Daily/00410. Split Array Largest Sum.swift",
     "commit_hash": "d21641c"
+  },
+  {
+    "problem_number": "00412",
+    "title": "Fizz Buzz",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/fizz-buzz",
+    "filepath": "LeetCode Daily/00412. Fizz Buzz.ts",
+    "commit_hash": "a136f9b"
+  },
+  {
+    "problem_number": "00413",
+    "title": "Arithmetic Slices",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/arithmetic-slices",
+    "filepath": "LeetCode Daily/00413. Arithmetic Slices.go",
+    "commit_hash": "a136f9b"
+  },
+  {
+    "problem_number": "00414",
+    "title": "Third Maximum Number",
+    "language": "Kotlin",
+    "leetcode_url": "https://leetcode.com/problems/third-maximum-number",
+    "filepath": "LeetCode Daily/00414. Third Maximum Number.kt",
+    "commit_hash": "a136f9b"
+  },
+  {
+    "problem_number": "00415",
+    "title": "Add Strings",
+    "language": "Rust",
+    "leetcode_url": "https://leetcode.com/problems/add-strings",
+    "filepath": "LeetCode Daily/00415. Add Strings.rs",
+    "commit_hash": "a136f9b"
+  },
+  {
+    "problem_number": "00417",
+    "title": "Pacific Atlantic Water Flow",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "filepath": "LeetCode Daily/00417. Pacific Atlantic Water Flow.py",
+    "commit_hash": "a136f9b"
   }
 ]
