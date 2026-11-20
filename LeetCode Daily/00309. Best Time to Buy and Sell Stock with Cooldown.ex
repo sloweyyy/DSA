@@ -1,0 +1,1 @@
+defmodule Solution do def max_profit([first | remaining]), do: run(remaining, -first, 0, 0); defp run([], _, sold, resting), do: max(sold, resting); defp run([price | remaining], holding, sold, resting), do: run(remaining, max(holding, resting - price), holding + price, max(resting, sold)) end
