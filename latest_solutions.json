@@ -1,37 +1,5 @@
 [
   {
-    "problem_number": "01292",
-    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
-    "language": "C#",
-    "leetcode_url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
-    "filepath": "LeetCode Daily/01292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold.cs",
-    "commit_hash": "5a0883e"
-  },
-  {
-    "problem_number": "02914",
-    "title": "Minimum Number of Changes to Make Binary String Beautiful",
-    "language": "Go",
-    "leetcode_url": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful",
-    "filepath": "LeetCode Daily/02914. Minimum Number of Changes to Make Binary String Beautiful.go",
-    "commit_hash": "ec8e478"
-  },
-  {
-    "problem_number": "02567",
-    "title": "Minimum Score by Changing Two Elements",
-    "language": "PHP",
-    "leetcode_url": "https://leetcode.com/problems/minimum-score-by-changing-two-elements",
-    "filepath": "LeetCode Daily/02567. Minimum Score by Changing Two Elements.php",
-    "commit_hash": "7fd1283"
-  },
-  {
-    "problem_number": "03041",
-    "title": "Maximize Consecutive Elements in an Array After Modification",
-    "language": "JavaScript",
-    "leetcode_url": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification",
-    "filepath": "LeetCode Daily/03041. Maximize Consecutive Elements in an Array After Modification.js",
-    "commit_hash": "3a28dcc"
-  },
-  {
     "problem_number": "00090",
     "title": "Subsets II",
     "language": "Java",
@@ -70,5 +38,45 @@
     "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree",
     "filepath": "LeetCode Daily/00098. Validate Binary Search Tree.dart",
     "commit_hash": "76303f8"
+  },
+  {
+    "problem_number": "00099",
+    "title": "Recover Binary Search Tree",
+    "language": "PHP",
+    "leetcode_url": "https://leetcode.com/problems/recover-binary-search-tree",
+    "filepath": "LeetCode Daily/00099. Recover Binary Search Tree.php",
+    "commit_hash": "0cf5c89"
+  },
+  {
+    "problem_number": "00101",
+    "title": "Symmetric Tree",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/symmetric-tree",
+    "filepath": "LeetCode Daily/00101. Symmetric Tree.erl",
+    "commit_hash": "0cf5c89"
+  },
+  {
+    "problem_number": "00102",
+    "title": "Binary Tree Level Order Traversal",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "filepath": "LeetCode Daily/00102. Binary Tree Level Order Traversal.go",
+    "commit_hash": "0cf5c89"
+  },
+  {
+    "problem_number": "00103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "language": "Elixir",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "filepath": "LeetCode Daily/00103. Binary Tree Zigzag Level Order Traversal.ex",
+    "commit_hash": "0cf5c89"
+  },
+  {
+    "problem_number": "00104",
+    "title": "Maximum Depth of Binary Tree",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "filepath": "LeetCode Daily/00104. Maximum Depth of Binary Tree.c",
+    "commit_hash": "0cf5c89"
   }
 ]
