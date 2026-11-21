@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "00438",
-    "title": "Find All Anagrams in a String",
-    "language": "Python",
-    "leetcode_url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
-    "filepath": "LeetCode Daily/00438. Find All Anagrams in a String.py",
-    "commit_hash": "fffde29"
-  },
-  {
     "problem_number": "00441",
     "title": "Arranging Coins",
     "language": "Dart",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
     "filepath": "LeetCode Daily/00452. Minimum Number of Arrows to Burst Balloons.swift",
     "commit_hash": "1d6838b"
+  },
+  {
+    "problem_number": "03331",
+    "title": "Find Subtree Sizes After Changes",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/find-subtree-sizes-after-changes",
+    "filepath": "LeetCode Daily/03331. Find Subtree Sizes After Changes.py",
+    "commit_hash": "ca41bb6"
   }
 ]
