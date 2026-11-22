@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "00441",
-    "title": "Arranging Coins",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/arranging-coins",
-    "filepath": "LeetCode Daily/00441. Arranging Coins.dart",
-    "commit_hash": "fffde29"
-  },
-  {
     "problem_number": "00442",
     "title": "Find All Duplicates in an Array",
     "language": "Ruby",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/find-subtree-sizes-after-changes",
     "filepath": "LeetCode Daily/03331. Find Subtree Sizes After Changes.py",
     "commit_hash": "ca41bb6"
+  },
+  {
+    "problem_number": "02124",
+    "title": "Check if All A's Appears Before All B's",
+    "language": "TypeScript",
+    "leetcode_url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs",
+    "filepath": "LeetCode Daily/02124. Check if All A's Appears Before All B's.ts",
+    "commit_hash": "ff79c6d"
   }
 ]
