@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "00442",
-    "title": "Find All Duplicates in an Array",
-    "language": "Ruby",
-    "leetcode_url": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
-    "filepath": "LeetCode Daily/00442. Find All Duplicates in an Array.rb",
-    "commit_hash": "fffde29"
-  },
-  {
     "problem_number": "00443",
     "title": "String Compression",
     "language": "C++",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs",
     "filepath": "LeetCode Daily/02124. Check if All A's Appears Before All B's.ts",
     "commit_hash": "ff79c6d"
+  },
+  {
+    "problem_number": "01352",
+    "title": "Product of the Last K Numbers",
+    "language": "Erlang",
+    "leetcode_url": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "filepath": "LeetCode Daily/01352. Product of the Last K Numbers.erl",
+    "commit_hash": "ffc649b"
   }
 ]
