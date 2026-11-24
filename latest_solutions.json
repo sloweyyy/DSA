@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "00443",
-    "title": "String Compression",
-    "language": "C++",
-    "leetcode_url": "https://leetcode.com/problems/string-compression",
-    "filepath": "LeetCode Daily/00443. String Compression.cpp",
-    "commit_hash": "fffde29"
-  },
-  {
     "problem_number": "00445",
     "title": "Add Two Numbers II",
     "language": "Kotlin",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/product-of-the-last-k-numbers",
     "filepath": "LeetCode Daily/01352. Product of the Last K Numbers.erl",
     "commit_hash": "ffc649b"
+  },
+  {
+    "problem_number": "03411",
+    "title": "Maximum Subarray With Equal Products",
+    "language": "Go",
+    "leetcode_url": "https://leetcode.com/problems/maximum-subarray-with-equal-products",
+    "filepath": "LeetCode Daily/03411. Maximum Subarray With Equal Products.go",
+    "commit_hash": "77fb660"
   }
 ]
