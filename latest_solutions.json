@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "00445",
-    "title": "Add Two Numbers II",
-    "language": "Kotlin",
-    "leetcode_url": "https://leetcode.com/problems/add-two-numbers-ii",
-    "filepath": "LeetCode Daily/00445. Add Two Numbers II.kt",
-    "commit_hash": "fffde29"
-  },
-  {
     "problem_number": "00447",
     "title": "Number of Boomerangs",
     "language": "Dart",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/maximum-subarray-with-equal-products",
     "filepath": "LeetCode Daily/03411. Maximum Subarray With Equal Products.go",
     "commit_hash": "77fb660"
+  },
+  {
+    "problem_number": "03934",
+    "title": "Smallest Unique Subarray",
+    "language": "Python",
+    "leetcode_url": "https://leetcode.com/problems/smallest-unique-subarray",
+    "filepath": "LeetCode Daily/03934. Smallest Unique Subarray.py",
+    "commit_hash": "821cc55"
   }
 ]
