@@ -1,13 +1,5 @@
 [
   {
-    "problem_number": "00447",
-    "title": "Number of Boomerangs",
-    "language": "Dart",
-    "leetcode_url": "https://leetcode.com/problems/number-of-boomerangs",
-    "filepath": "LeetCode Daily/00447. Number of Boomerangs.dart",
-    "commit_hash": "fffde29"
-  },
-  {
     "problem_number": "00448",
     "title": "Find All Numbers Disappeared in an Array",
     "language": "Racket",
@@ -78,5 +70,13 @@
     "leetcode_url": "https://leetcode.com/problems/smallest-unique-subarray",
     "filepath": "LeetCode Daily/03934. Smallest Unique Subarray.py",
     "commit_hash": "821cc55"
+  },
+  {
+    "problem_number": "03360",
+    "title": "Stone Removal Game",
+    "language": "C",
+    "leetcode_url": "https://leetcode.com/problems/stone-removal-game",
+    "filepath": "LeetCode Daily/03360. Stone Removal Game.c",
+    "commit_hash": "50c119f"
   }
 ]
